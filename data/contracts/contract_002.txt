@@ -1,0 +1,305 @@
+Exhibit 10.8
+
+TRI-PARTY ENHANCED AOT AGREEMENT
+
+This Agreement is made by and among E-Loan, Inc., [*] ("Originator"), Wells
+Fargo Home Mortgage, Inc., [*] ("Direct Seller"), and the Federal Home Loan
+Mortgage Corporation, ("Freddie Mac") this 22nd day of May, 2001 (the
+"Agreement").
+
+RECITALS
+
+(A) Originator and Freddie Mac desire to enter into a special Master Commitment
+(the "Originator MC") which contains certain terms and conditions pursuant to
+which Originator may originate Mortgages eligible for purchase by Freddie Mac
+("Originator Mortgages");
+
+(B) Originator and Direct Seller desire to enter into the Wells Fargo Funding
+Loan Purchase Agreement pursuant to which Direct Seller will purchase the
+Originator Mortgages from Originator and sell such Mortgages to Freddie Mac;
+
+(C) Direct Seller and Freddie Mac desire to enter into a special Master
+Commitment (the "Direct Seller MC") which contains certain terms and conditions
+pursuant to which Direct Seller shall sell the Originator Mortgages to Freddie
+Mac;
+
+(D) Originator desires to assign certain of its rights under the Originator MC
+to Direct Seller so that Direct Seller may incorporate the Required Spreads and
+other terms as necessary, into the Direct Seller MC and use the combined terms
+and conditions from both the Originator MC and the Direct Seller MC to sell the
+Originator Mortgages to Freddie Mac; and
+
+(E) Originator, Direct Seller and Freddie Mac are all willing to participate in
+Freddie Mac's Enhanced AOT offering subject to the terms and conditions set
+forth herein.
+
+NOW, THEREFORE, in consideration of the premises, mutual promises and other good
+and valuable consideration, the receipt and sufficiency of which is hereby
+acknowledged by the parties hereto, the parties agree as follows:
+
+The Recitals are true and correct.
+
+Originator hereby assigns certain of its rights under the Originator MC to
+Direct Seller so that Direct Seller may incorporate the Required Spreads (and
+other terms as necessary) from the Originator MC into the Direct Seller MC and
+sell the Originator Mortgages to Freddie Mac under the Direct Seller MC and
+Direct Seller's Seller/Servicer number. Notwithstanding the immediately
+preceding sentence, Originator expressly reserves the right to agree to
+amendments to Originator's Purchase Documents, from time to time. Originator and
+Direct Seller also agree that this Agreement shall be incorporated into and
+become part of the Originator MC, or related Originator's Master Agreement, and
+Direct Seller's MC.
+
+Direct Seller hereby accepts such assignment from Originator and agrees that
+Direct Seller shall sell all Originator Mortgages it purchases from Originator
+to Freddie Mac under the Direct Seller MC, as supplemented by the Required
+Spreads (and other terms as necessary) incorporated from the Originator MC;
+
+Direct Seller acknowledges and agrees that Originator has reserved the right to
+agree to amendments to Originator's Purchase Documents, from time to time.
+
+Freddie Mac hereby gives its consent to the assignment by Originator to Direct
+Seller; provided that, (i) Originator and Direct Seller comply with all of the
+requirements of this Agreement and the applicable Purchase Documents, and
+(ii) Originator and Direct Seller acknowledge and agree that Freddie Mac
+reserves the right to revoke its consent to the assignment at any time and in
+its sole discretion.
+
+Originator and Direct Seller agree that Originator shall notify Direct Seller of
+any amendment to Originator's Purchase Documents prior to its execution of any
+amendment to Originator's Purchase Documents. Direct Seller acknowledges and
+agrees that, (i) Freddie Mac has no duty or obligation to notify Direct Seller
+of any amendment to Originator's Purchase Documents, (ii) Originator shall be
+Direct Seller's agent for purposes of receiving notice of any such amendment to
+Originator's Purchase Documents, (iii) Direct Seller shall be deemed to have
+notice of and be bound by any amendment to the Originator's Purchase Documents,
+and (iv) all Originator Mortgages delivered and sold by Direct Seller on or
+after the effective date of any such amendment shall comply with the
+Originator's Purchase Documents, as amended. With respect to any such amendment
+to the Originator's Purchase Documents, Originator represents and warrants that
+it has notified and, if required under the Wells Fargo Funding Loan Purchase
+Agreement, received approval of the terms and conditions of the amendment from
+Direct Seller.
+
+Without changing the Originator's duty to notify Direct Seller as set forth in
+the immediately preceding paragraph 6, Originator agrees that Freddie Mac may,
+as a courtesy to Direct Seller, but not as a duty or obligation, electronically
+transmit via the internet to Direct Seller's email address set forth below an
+unsigned copy of any such amendment to the Special Master Commitment(s) or
+Originator's other Purchase Documents. Freddie Mac shall not be responsible for
+the failure of any telecommunications company or cable company to properly,
+accurately and promptly transmit any such email.
+
+Direct Seller represents, warrants and covenants that (i) as of the Delivery
+Date and through and including the Settlement Date, Direct Seller shall be the
+sole owner of the Originator Mortgages delivered to Freddie Mac and (ii) all
+such Mortgages are free and clear of any and all security interests, claims and
+encumbrances of any other party including, but not limited to, the Originator.
+
+Direct Seller agrees that it shall, (i) as of the Settlement Date, convey and
+transfer to Freddie Mac all of Direct Seller's right, title and interest in the
+Originator Mortgages delivered to Freddie Mac, and (ii) on and after the
+Settlement Date, service the Originator Mortgages.
+
+Originator acknowledges and agrees that Originator has received from Direct
+Seller the reasonably equivalent value of and the fair consideration for the
+Originator Mortgages and Originator has no right, title or interest in the
+Originator Mortgages or the servicing rights to such Mortgages.
+
+Originator represents and warrants to Direct Seller and their successor and/or
+assign that all Originator Mortgages comply with all of Freddie Mac's
+requirements in Originator's Purchase Documents including, but not limited to,
+requirements regarding loan documentation, legal enforceability, first lien
+priority status, the Borrower's income and credit qualifications, the Borrower's
+source and amount of downpayment, the value and acceptability of the collateral
+and overall Mortgage eligibility. Originator represents and warrants to Direct
+Seller that, with respect to each mortgage sold to Direct Seller under the Wells
+Fargo Funding Loan Purchase Agreement, the Originator has provided Direct Seller
+with all data, information and detail necessary to process the delivery of the
+mortgage to Freddie Mac. Such data, information and detail shall include, but
+not be limited to, those items described in Chapter 17 of the Freddie Mac
+Single-Family Seller/Servicer Guide.
+
+Originator and Direct Seller acknowledge and agree that Freddie Mac's purchase
+of the Originator Mortgages from Direct Seller shall be in complete mliance upon
+Originator's representations and warranties in the immediately preceding
+paragraph 11. Originator agrees that Freddie Mac, as the assignee of Direct
+Seller, shall have the right to pursue its remedies under Originator's Purchase
+Documents directly against Originator. Furthermore, Originator agrees that
+Freddie Mac (i) is the intended beneficiary of Originator's representations and
+warranties under the Originator's Purchase Documents and this Agreement and
+(ii) shall not be required to first pursue any remedies for misrepresentation or
+breach of warranty against Direct Seller before pursuing its rights and remedies
+against Originator. Originator also agrees that Freddie Mac's rights as an
+intended beneficiary of Originator's representations and warranties shall vest
+on the Settlement Date.
+
+In the event Freddie Mac determines that any representation by Originator is
+untrue or that any of Originator's warranties have been breached, Freddie Mac
+will pursue its remedies under the Purchase Documents directly against
+Originator. Originator and Freddie Mac acknowledge and agree that Freddie Mac
+will not hold Direct Seller responsible for any misrepresentation or breach of
+warranty by Originator with respect to any Originator Mortgage regarding loan
+documentation, legal enforceability, first lien priority status, the Borrower's
+income and credit qualifications, the Borrower's source and amount of
+downpayment, the value and acceptability of the collateral or overall Mortgage
+eligibility. To accommodate Freddie Mac quality control reviews, Originator
+agrees to retain copies of the origination file of each Originator Mortgage for
+a period of 12 months after the Originator Mortgage's origination date, or the
+amount of time required by law or regulation, whichever is greater.
+
+Originator, Direct Seller and Freddie Mac agree that as of the Settlement Date:
+
+(i) Originator shall be solely responsible for all representations, warranties,
+covenants and requirements under the Originator's Purchase Documents with
+respect to loan documentation, legal enforceability, first lien priority status,
+the Borrower's income and credit qualifications, the Borrower's source and
+amount of downpayment, the value and acceptability of the collateral and the
+overall eligibility of each Originator Mortgage. Notwithstanding any provision
+of the Originator Purchase Documents to the contrary, Originator shall remain
+solely responsible for all such representations-,warranties, covenants and
+requirements until Freddie Mac specifically and expressly releases Originator in
+writing;
+
+(ii) Direct Seller shall be fully responsible for, (A) all representations,
+warranties, covenants and requirements regarding the delivery of Mortgage loan
+documents and loan data, Note endorsements, and mortgage file contents under the
+Direct Seller's Purchase Documents and (B) the representations, warranties and
+covenants made hereunder; and
+
+(iii) Direct Seller shall be fully responsible for, (A) all servicing
+representations, warranties, covenants and requirements under the Direct
+Seller's Purchase Documents and (B) the representations, warranties and
+covenants made hereunder.
+
+In the event of a transfer of servicing of any Originator Mortgages,
+(i) Originator shall continue to be fully and solely responsible for all
+representations, warranties, covenants and requirements under the Originator's
+Purchase Documents with respect to the loan documentation, legal enforceability,
+first lim priority status, the Borrower's income and credit qualifications, the
+Borrower's source and amount of downpayment, the value and acceptability of the
+collateral and the overall eligibility of each Originator Mortgage until Freddie
+Mac specifically and expressly releases Originator in writing, notwithstanding
+any provision of the Guide, Form 960, Form 981 or other Originator Purchase
+Documents to the contrary; and (ii) the servicing transferor shall be released
+from the servicing representations, warranties, covenants and requirements in
+accordance with Freddie Mac's Guide requirements.
+
+Notwithstanding anything contained in this Agreement or the Originator Purchase
+Documents to the contrary, the Servicer of the Originator Mortgages will always
+be solely responsible for providing Freddie Mac's Quality Control Department
+with mortgage loan files in accordance with the Guide requirements.
+
+The parties hereto agree that capitalized terms used in this Agreement and not
+otherwise defined herein shall have the meanings ascribed to them in the Freddie
+Mac Single-Family Seller/Servicer Guide, as amended and supplemented by Freddie
+Mac Sellers' and Servicers' Bulletins published prior to the date of the Master
+Agreement. References to chapters or sections of the Guide shall be deemed to be
+references to such chapters or sections as Enhanced by Freddie Mac Sellers' and
+Servicers' Bulletins.
+
+In the event that (i) Originator and Direct Seller fail to comply with the
+provisions of this Attachment, or (ii) there is a breach of warranty or a
+representation made under this Agreement or other applicable Purchase Documents
+is determined to be untrue, Freddie Mac may, at its option and in its sole
+discretion, exercise any of its remedies at law or under the applicable Purchase
+Documents, including, but not limited to, the right to terminate a parties
+Master Agreement and any Master Commitments issued thereunder upon written
+notice to the affected party.
+
+This Agreement will terminate upon the earlier of (i) 90 days from written
+notice to the parties by Freddie Mac, or (ii) the termination dates contained in
+the Originator's Master Agreement incorporating this Agreement.
+
+Notices shall be sent, faxed or electronically transmitted as follows:
+
+(a) To Originator:
+
+Mr. Steve Majerus
+
+Vice President
+
+E-Loan, Inc.
+
+5875 Arnold Road Dublin, CA 94568
+
+(b) To Direct Seller:
+
+Ms. Mary Blue
+
+Senior Vice President
+
+Wells Fargo Home Mortgage, Inc.
+
+100 South 5th Street Minneapolis, MN 55402
+
+(c) To Freddie Mac:
+
+Mr. Brian Swan
+
+Director of Customer Services
+
+Freddie Mac
+
+333 West Wacker, Suite 2500
+
+Chicago, IL 60606
+
+Originator and Direct Seller agree that the terms of this Agreement are hereby
+deemed to be "confidential information" as described in Section 2.16 of the
+Guide and further agree to comply with the confidentiality requirements set
+forth therein.
+
+Originator and Direct Seller hereby indemnify and hold Freddie Mac harmless from
+and against any damages, liabilities, judgments, claims, counterclaims or
+defenses to which Freddie Mac may become subject, which arise out of or occur in
+connection this Agreement.
+
+IN WITNESS WHEREOF, Originator, Direct Seller and Freddie Mac have caused this
+Agreement to be executed by their duly authorized representatives as of the date
+first set forth above.
+
+FEDERAL HOME LOAN MORTGAGE CORPORATION
+
+By: /s/ Brian L. Swan
+
+Brian L. Swan
+
+Director of Customer Services
+
+ 
+
+E-LOANS, INC.
+
+ 
+
+By: /s/ Steven M. Majerus
+
+Type Name: V.P. Secondary Marketing
+
+Title: V.P. Secondary Marketing
+
+Date: 5/23/01
+
+ 
+
+ 
+
+WELLS FARGO HOME MORTGAGE, INC.
+
+ 
+
+By: /s/ Mary Blue
+
+Type Name: Mary Blue
+
+Title: Senior Vice President
+
+Date: June 15, 2001
+
+
+
+
+--------------------------------------------------------------------------------
+
+

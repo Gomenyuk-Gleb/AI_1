@@ -1,0 +1,172 @@
+
+QuickLinks -- Click here to rapidly navigate through this document
+
+EXHIBIT 10.15
+
+
+AMENDMENT TO EMPLOYMENT AGREEMENT
+
+
+    This Amendment to Employment Agreement (the "Amendment") is made and entered
+into effective as of the 9th day of February, 2001, by and between
+NetZero, Inc., a Delaware corporation (the "Company"), with principal corporate
+offices at 2555 Townsgate Road, Westlake Village, CA 91361, and Frederic A.
+Randall, Jr., whose address is 432 Isabella Terrace, Corona del Mar, California
+92625 ("Employee"). All capitalized terms used but not otherwise defined herein
+shall have the meanings given to them in that certain Employment Agreement by
+and between the Company and Employee dated March 20, 1999 (the "Agreement" or
+the "Employment Agreement").
+
+    WHEREAS, the Company and Employee desire to modify certain terms of the
+Employment Agreement.
+
+    NOW, THEREFORE, for good and valuable consideration, the receipt of which is
+hereby acknowledged, the parties agree as follows:
+
+1.The Term of the Employment Agreement is hereby extended through February 9,
+2005.
+
+2.Employee's Base Salary and Annual Bonus, as defined in the Employment
+Agreement, shall be increased to include any increases to Employee's base salary
+and annual bonus as approved by the Board.
+
+3.Section 4.2 shall be replaced with the following:
+
+    4.2  Termination Without Cause.  If Employee's employment is terminated
+without "cause" as defined in Section 4.1(a), or if Employee is Involuntarily
+Terminated (as defined below), the Company (or its successor, as the case may
+be) shall pay to Employee (i) any accrued but unpaid Base Salary and vacation
+through the date of termination, (ii) reimbursement for any expenses as set
+forth in Section 3.5, through the date of termination and (iii) a severance
+payment in an amount equal to four times Employee's Base Salary and Annual
+Bonus, payable in one lump sum on the date of termination, subject to
+withholding as may be required by law. In addition, if Employee's employment is
+terminated without cause (other than if Employee is Involuntarily Terminated) or
+if Employee's employment is terminated due to death or permanent disability,
+Employee will be credited with an additional twelve (12) months of service
+toward vesting in the Option shares in addition to the service he has accrued
+toward vesting through the date of termination. If Employee is Involuntarily
+Terminated, vesting of all options to purchase shares of the Company's Common
+Stock and all restricted stock grants (subject to any vesting deferrals provided
+in any restricted stock grant) will be accelerated in full and all such options
+shall remain in effect for a one (1) year period following the date of
+termination. As used in this Section 4.2, Employee shall be deemed
+"Involuntarily Terminated" if (i) the Company or any successor to the Company
+terminates Employee's employment without cause in connection with or following a
+Corporate Transaction or Change of Control (as defined in the Company's 1999
+Stock Incentive Plan); or (ii) in connection with or following a Corporate
+Transaction or Change of Control there is (a) a decrease in Employee's title or
+responsibilities (it being deemed to be a decrease in title and/or
+responsibilities if Employee is not offered the position of Senior Vice
+President and General Counsel of the Company or its successor as well as the
+acquiring and ultimate parent entity, if any, following the Corporate
+Transaction or Change of Control), (b) a decrease in pay and/or benefits from
+those provided by the Company immediately prior to the Corporate Transaction or
+(c) a requirement that Employee re-locate out of the greater Los Angeles
+metropolitan area.
+
+4.For the eighteen (18) month period following the termination of Employee's
+employment with the Company (the "Noncompetition Period"), Employee shall not
+directly engage in, or manage or direct persons engaged in, a Competitive
+Business Activity (as defined below)
+
+--------------------------------------------------------------------------------
+
+anywhere in the Restricted Territory (as defined below); provided, that the
+Noncompetition Period shall terminate if the Company terminates operations or if
+the Company no longer engages in any Competitive Business Activity. The term
+"Competitive Business Activity" shall mean the business of providing consumers
+with dial-up Internet access services (free or pay). The term "Restricted
+Territory" shall mean each and every county, city or other political subdivision
+of the United States in which the Company is engaged in business or providing
+its services.   The Company agrees that providing services to a company or
+entity that is involved in a Competitive Business Activity but which services
+are unrelated to the Competitive Business Activity shall not be deemed a
+violation of this Amendment.
+
+5.Company and Employee agree that, for the purposes of damages to the Company
+with respect to any breach of Section 4 above, the value of Employee's
+obligations to the Company under Section 4 equal 37.5% of the severance payment
+in paragraph 3 above. In the event that any amounts, benefits, and rights
+payable to Employee upon a termination of employment under Section 4 (CIC
+Benefits) would be deemed under Section 280G of the Internal Revenue Code (Code)
+to constitute parachute payments, then the Employee's CIC Benefits shall be
+payable either (a) in full, or (b) as to such lesser amount which would result
+in no portion of such CIC Benefits being subject to excise tax under
+Section 4999 of the Code, whichever of the foregoing amounts, taking into
+account the applicable federal, state and local income taxes and the excise tax
+imposed by Section 4999, results in the receipt by Employee on an after-tax
+basis, of the greatest amount of benefits under Section 4 notwithstanding that
+all or some portion of such benefits may be taxable under Section 4999 of the
+Code. The determination as to whether and to what extent payments under
+Section 4 are required to be reduced in accordance with the preceding sentence
+shall be made at the Company's expense by PricewaterhouseCoopers LLP or by such
+other nationally recognized certified public accounting firm, law firm, or
+benefits consulting firm as the Compensation Committee of the Company's Board of
+Directors may designate, subject to the reasonable approval of Employee.
+PricewaterhouseCoopers LLP (or such other firm as may have been designated in
+accordance with the preceding sentence) shall have the right to engage any
+service provider of their choosing to provide any assistance or services
+necessary in making such determination.
+
+6.If any provision of this Agreement is held by an arbitrator or a court of
+competent jurisdiction to conflict with any federal, state or local law, or to
+be otherwise invalid or unenforceable, such provision shall be construed in a
+manner so as to maximize its enforceability while giving the greatest effect as
+possible to the parties' intent. To the extent any provision cannot be construed
+to be enforceable, such provision shall be deemed to be eliminated from this
+Agreement and of no force or effect and the remainder of this Agreement shall
+otherwise remain in full force and effect and be construed as if such portion
+had not been included in this Agreement.
+
+7.This Amendment shall be deemed incorporated into the Agreement and, except as
+specifically modified by this Amendment, the Agreement shall remain unchanged
+and in full force and effect. The Agreement shall be binding upon successors and
+assigns.
+
+--------------------------------------------------------------------------------
+
+
+
+    In witness whereof, the parties have executed this Amendment to be effective
+as of the first date written above.
+
+
+ 
+ 
+ 
+ 
+      NETZERO, INC.
+ 
+ 
+ 
+ 
+      By:   /s/ MARK R. GOLDSTON   
+
+--------------------------------------------------------------------------------
+
+Mark R. Goldston
+Chief Executive Officer
+ 
+ 
+ 
+ 
+      EMPLOYEE
+ 
+ 
+ 
+ 
+/s/ FREDERIC A. RANDALL, JR.   
+
+--------------------------------------------------------------------------------
+
+Frederic A. Randall, Jr.
+
+--------------------------------------------------------------------------------
+
+
+
+QuickLinks
+
+
+AMENDMENT TO EMPLOYMENT AGREEMENT

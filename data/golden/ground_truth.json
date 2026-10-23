@@ -1,0 +1,209 @@
+{
+  "schema_version": "1.0",
+  "notes": "Manually labeled by reading the full (truncated) contract text in data/contracts/. Dates are ISO 8601. null means the field is genuinely not stated or ambiguous in the given excerpt.",
+  "items": {
+    "contract_001": {
+      "agreement_type": "employment",
+      "parties": [
+        {"name": "Avocent Employment Services Co.", "role": "first_party"},
+        {"name": "Avocent Corporation", "role": "other"},
+        {"name": "R. Byron Driver", "role": "second_party"}
+      ],
+      "effective_date": "2000-10-31",
+      "governing_law": "Alabama",
+      "term_description": "July 1, 2000 through December 31, 2004, extendable by mutual written agreement",
+      "has_termination_clause": true,
+      "has_confidentiality_clause": false,
+      "key_obligations": [
+        "Employee serves as SVP of Operations and COO of Avocent",
+        "Employer pays Base Salary of $180,000/year plus annual bonus",
+        "Employer/Avocent provide benefits, life insurance, and indemnification",
+        "Non-compete implied by agreement title though full clause is in the omitted middle section"
+      ],
+      "label_confidence": "high",
+      "label_notes": "Document truncated in the middle (map-reduce case); non-compete clause itself falls in the omitted section so has_confidentiality_clause is based only on visible head+tail text."
+    },
+    "contract_003": {
+      "agreement_type": "shareholder_standstill",
+      "parties": [
+        {"name": "Marvin I. Weinberger", "role": "second_party"},
+        {"name": "Infonautics, Inc.", "role": "first_party"},
+        {"name": "Tucows Inc.", "role": "other"}
+      ],
+      "effective_date": null,
+      "governing_law": "Pennsylvania",
+      "term_description": "Terminates upon the earlier of the Merger's effective time or termination of the Merger Agreement",
+      "has_termination_clause": true,
+      "has_confidentiality_clause": false,
+      "key_obligations": [
+        "Shareholder agrees to restrictions on transfer of Subject Securities",
+        "Shareholder agrees to vote shares in favor of the Merger",
+        "Shareholder grants an Irrevocable Proxy to the Company",
+        "Company agrees to use best efforts to register Shareholder's shares"
+      ],
+      "label_confidence": "high",
+      "label_notes": "Date in source is literally 'March __, 2001' (day left blank) -> no determinate effective_date."
+    },
+    "contract_004": {
+      "agreement_type": "lease",
+      "parties": [
+        {"name": "Place & Plaza LLC", "role": "first_party"},
+        {"name": "Endocardial Solutions, Inc.", "role": "second_party"}
+      ],
+      "effective_date": "2001-08-13",
+      "governing_law": null,
+      "term_description": "Commences 30 days after execution, terminates March 31, 2004",
+      "has_termination_clause": true,
+      "has_confidentiality_clause": false,
+      "key_obligations": [
+        "Lessee pays monthly base rent ($3,658 rising to $3,962.83/month) plus pro rata operating expenses (14.88%)",
+        "Lessee maintains interior of premises; Lessor maintains structural/exterior",
+        "Lessee carries $1,000,000 general liability and property insurance",
+        "Lessee may not store hazardous substances on the premises"
+      ],
+      "label_confidence": "high",
+      "label_notes": "No explicit governing-law clause found anywhere in the lease text."
+    },
+    "contract_007": {
+      "agreement_type": "termination",
+      "parties": [
+        {"name": "Venture One Real Estate, LLC", "role": "first_party"},
+        {"name": "RESoft, Inc.", "role": "second_party"}
+      ],
+      "effective_date": "2001-06-30",
+      "governing_law": null,
+      "term_description": "One-time termination of a prior agreement; no ongoing term",
+      "has_termination_clause": true,
+      "has_confidentiality_clause": false,
+      "key_obligations": [
+        "RESoft pays Venture $43,964 in direct expenses by August 15, 2001",
+        "RESoft pays Venture $262,500 by October 15, 2001",
+        "Both parties mutually release all claims under the terminated Agency Agreement",
+        "Parties execute a formal Cancellation of the Agency Agreement"
+      ],
+      "label_confidence": "high",
+      "label_notes": "The contract itself IS a termination agreement for a separate prior agreement."
+    },
+    "contract_008": {
+      "agreement_type": "services_consulting",
+      "parties": [
+        {"name": "Joseph F. Toot, Jr.", "role": "second_party"},
+        {"name": "The Timken Company", "role": "first_party"}
+      ],
+      "effective_date": "2001-01-01",
+      "governing_law": "Ohio",
+      "term_description": "Two years, terminating December 31, 2002, with 60-day termination for convenience",
+      "has_termination_clause": true,
+      "has_confidentiality_clause": true,
+      "key_obligations": [
+        "Company pays Consultant $100,000/year in quarterly installments",
+        "Consultant provides advisory services, ~4 days/month, at his discretion",
+        "Consultant keeps Company non-public information confidential",
+        "Consultant will not work for a direct competitor during the term + 3 years after"
+      ],
+      "label_confidence": "high",
+      "label_notes": "Clean, short, unambiguous contract."
+    },
+    "contract_013": {
+      "agreement_type": "loan_credit",
+      "parties": [
+        {"name": "Fargo Electronics, Inc.", "role": "second_party"},
+        {"name": "LaSalle Bank National Association", "role": "first_party"},
+        {"name": "Harris Trust and Savings Bank", "role": "other"}
+      ],
+      "effective_date": "2000-09-15",
+      "governing_law": "Minnesota",
+      "term_description": "Revolving credit facility running through a defined 'Termination Date' (not shown in excerpt)",
+      "has_termination_clause": true,
+      "has_confidentiality_clause": false,
+      "key_obligations": [
+        "Banks provide a revolving credit facility (incl. letters of credit) to the Company",
+        "Company must maintain financial covenants (e.g. Interest Coverage Ratio)",
+        "Company indemnifies the Agent and Banks for environmental and transaction-related liabilities",
+        "Company consents to Minnesota jurisdiction and waives jury trial"
+      ],
+      "label_confidence": "medium",
+      "label_notes": "Document truncated in the middle (map-reduce case, 43+ page credit agreement); no explicit confidentiality clause seen in visible head+tail, but definitions/covenants sections in the omitted middle were not reviewed."
+    },
+    "contract_017": {
+      "agreement_type": "supply_manufacturing",
+      "parties": [
+        {"name": "ABC Laboratories, Inc.", "role": "first_party"},
+        {"name": "NeoRx Corporation", "role": "second_party"}
+      ],
+      "effective_date": "2000-09-01",
+      "governing_law": null,
+      "term_description": "Continues through December 31, 2002; either party may terminate after Dec 22, 2000 on 30 days' notice",
+      "has_termination_clause": true,
+      "has_confidentiality_clause": true,
+      "key_obligations": [
+        "ABC manufactures, tests, and supplies 166Ho-DOTMP Product per cGMP and purchase orders",
+        "NeoRx pays milestone payments, batch fees, and reimbursable expenses",
+        "NeoRx handles shipping and bears shipping costs",
+        "Each party keeps the other's confidential information and the Agreement's terms confidential"
+      ],
+      "label_confidence": "high",
+      "label_notes": "Heavily redacted with [*] placeholders -- deliberately 'messy' for extraction. No governing-law clause present in the document at all."
+    },
+    "contract_021": {
+      "agreement_type": "other",
+      "parties": [
+        {"name": "CoEnergy Trading Company", "role": "first_party"},
+        {"name": "The Peoples Gas Light and Coke Company", "role": "second_party"}
+      ],
+      "effective_date": "2000-06-28",
+      "governing_law": "Michigan",
+      "term_description": "Effective July 1, 2000 through March 31, 2001",
+      "has_termination_clause": true,
+      "has_confidentiality_clause": true,
+      "key_obligations": [
+        "Customer delivers natural gas to CTC during the Delivery Period",
+        "CTC redelivers equal volumes to Customer during the Redelivery Period",
+        "Customer pays CTC a fixed monthly fee of $123,333",
+        "Each party keeps the Agreement's terms confidential"
+      ],
+      "label_confidence": "high",
+      "label_notes": "Natural gas exchange agreement -- doesn't fit any specific enum value well, intentionally used to test the 'other' bucket."
+    },
+    "contract_024": {
+      "agreement_type": "other",
+      "parties": [
+        {"name": "Fargo Electronics, Inc.", "role": "second_party"},
+        {"name": "LaSalle Bank National Association", "role": "first_party"},
+        {"name": "Wells Fargo Brokerage Services, LLC", "role": "other"}
+      ],
+      "effective_date": null,
+      "governing_law": "Minnesota",
+      "term_description": "No fixed term; control continues until the Secured Party releases its pledge in writing",
+      "has_termination_clause": false,
+      "has_confidentiality_clause": false,
+      "key_obligations": [
+        "Securities Intermediary agrees to follow only the Secured Party's instructions on the pledged account",
+        "Pledgor may not withdraw or trade assets without the Secured Party's consent",
+        "Securities Intermediary sends duplicate account statements to the Secured Party",
+        "Agreement perfects the Secured Party's security interest in the account by control"
+      ],
+      "label_confidence": "medium",
+      "label_notes": "Letter-form agreement with three different signature dates (6/25/01, 6/29/01, 7/3/01) and no single 'dated as of' line -- genuinely ambiguous effective date, used to test over-confident date hallucination."
+    },
+    "contract_029": {
+      "agreement_type": "other",
+      "parties": [
+        {"name": "Burlington Coat Factory Warehouse of New Jersey, Inc.", "role": "second_party"},
+        {"name": "First Fidelity Bank, National Association", "role": "first_party"}
+      ],
+      "effective_date": "1995-08-01",
+      "governing_law": "New Jersey",
+      "term_description": null,
+      "has_termination_clause": false,
+      "has_confidentiality_clause": false,
+      "key_obligations": [
+        "Company certifies no hazardous substances violations on the mortgaged property",
+        "Company indemnifies the Bank against environmental liabilities and cleanup costs",
+        "Company's representations survive repayment of the underlying loan"
+      ],
+      "label_confidence": "high",
+      "label_notes": "Indemnity/certificate agreement, not a typical commercial contract type -- used to test the 'other' bucket and absence of termination/confidentiality clauses."
+    }
+  }
+}

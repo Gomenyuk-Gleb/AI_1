@@ -1,0 +1,659 @@
+Exhibit 10(l)
+
+EXCHANGE AGREEMENT
+
+ 
+
+This Exchange Agreement ("Agreement") made and entered into as of this 28th day
+of June, 2000, by and between CoEnergy Trading Company, a Michigan corporation
+("CTC"), and The Peoples Gas Light and Coke Company, an Illinois corporation
+("Customer").
+
+INTRODUCTION
+
+Customer desires to deliver volumes of natural gas to CTC during the term of the
+Agreement and cause equal volumes of natural gas to be redelivered by CTC on a
+firm basis to Customer's city gate.
+
+Subject to the terms and conditions hereinafter set forth, CTC is willing to
+engage in this exchange of natural gas with Customer and to provide the services
+herein described.
+
+Therefore, in consideration of the mutual benefits to be derived from this
+arrangement, the parties agree as follows:
+
+ARTICLE I
+
+DEFINITIONS
+
+1.1 "Business Day" shall mean any day except Saturdays, Sundays and federal bank
+holidays, and each such Business Day shall commence at 8:00 a.m. Central Time
+and end at 5:00 p.m. Central Time.
+
+1.2 "Central Time" shall mean the prevailing time in the Central Time Zone.
+
+1.3 "Contract Quantity" shall mean the maximum quantity of natural gas that may
+be accounted for in the Exchange Account on any Day, and such quantity shall be
+one million (1,000,000) MMBtu.
+
+1.4 "Delivery MDQ" shall mean the maximum quantity of gas that Customer may
+deliver to CTC at the Point of Delivery on any Day. The Delivery MDQ shall be
+ten thousand (10,000) MMBtu.
+
+1.5 "Delivery Period" shall mean the period commencing July 1, 2000 and ending
+October 31, 2000 inclusive of the commencement and ending dates, during the term
+of this Agreement.
+
+1.6 "Exchange Account" shall mean, for administrative purposes, the account in
+which the balance of Customer's deliveries to CTC, net of redeliveries by CTC to
+Customer, shall be maintained.
+
+1.7 "Gas Day" or "Day" shall mean a period of twenty-four (24) consecutive hours
+beginning and ending at 9:00 a.m. Central Time, or as redefined by the
+Transporter in Transporter's Tariff.
+
+1.8 "Point of Delivery" shall mean the point or points at which Customer
+delivers or causes to be delivered gas to CTC.
+
+1.9 "Point of Redelivery" shall mean the point or points at which CTC delivers
+natural gas or causes natural gas to be redelivered to Customer at Customer's
+distribution system, or a mutually agreed upon redelivery point.
+
+1.10 "Redelivery MDQ" shall mean the maximum quantity of natural gas that CTC
+may redeliver to Customer at the Point of Redelivery on any Day. The Redelivery
+MDQ shall be twenty thousand (20,000) MMBtu.
+
+1.11 "Redelivery Period" shall mean the period commencing November 1, 2000 and
+ending March 31, 2000 inclusive of the commencement and ending dates, during the
+term of this Agreement.
+
+1.12 "Transporter" shall mean the interstate pipeline or the local distribution
+company through which natural gas is delivered to or away from the Point of
+Delivery, and to or away from the Redelivery Point.
+
+1.13 "Transporter's Tariff" shall mean the Transporter's FERC Gas Tariff, as
+revised from time to time, on file with the Federal Energy Regulatory
+Commission, or the local distribution company's tariff, as revised from time to
+time, on file with the state public utility commission.
+
+ARTICLE II
+
+DELIVERIES AND REDELIVERIES
+
+2.1 During the Delivery Period, Customer shall deliver to CTC, and CTC shall
+cause to be received from Customer for credit to the Exchange Account any
+quantity of natural gas, equal to the quantity Customer nominates up to and
+including the Delivery MDQ.
+
+2.2 Customer will inform CTC of its delivery of natural gas for any Gas Day by
+notice via telephone call and confirming telecopy to CTC no later than one and a
+half (11/2) hours prior to the applicable Transporter's earliest regular
+nomination deadline for such Gas Day to permit CTC to receive such deliveries,
+and CTC will confirm such nomination by return notice via telecopy to Customer.
+
+2.3 During the Redelivery Period, CTC shall cause to be redelivered to Customer,
+and Customer shall receive, a quantity of natural gas equal to the quantity
+nominated by Customer for redelivery in accordance with Section 2.4 below, up to
+and including the Redelivery MDQ, provided that the requested redeliveries do
+not cause Customer to have a negative balance in its Exchange Account.
+
+2.4 Customer shall nominate the daily redelivery quantity of natural gas for any
+Gas Day by telephone call with confirming telecopy to CTC no later than one and
+a half (11/2) hours prior to the applicable Transporter's earliest regular
+nomination deadline for such Gas Day to permit CTC to redeliver such gas, and
+CTC will confirm such nomination by return notice via telecopy to Customer.
+
+2.5 The Points of Delivery under this Agreement shall be supply delivered: on
+the Michigan Consolidated Gas Company ("MichCon") system; at the interconnection
+of MichCon's system and the Shell Western E&P, Inc. processing plant at
+Kalkaska, Michigan; or at an interconnection between the MichCon system and one
+or more of the following pipelines: ANR Pipeline Company ("ANR") at the Willow
+Run Interconnect, or Panhandle Eastern Pipe Line Company ("Panhandle") at the
+River Rouge Interconnect.
+
+2.6 The Points of Redelivery under this Agreement shall be Customer's natural
+gas distribution system at a point(s) mutually agreed upon by CTC and Customer.
+
+2.7 Customer shall be responsible for making all arrangements and paying for the
+transportation of the gas to the Point of Delivery and from the Point of
+Redelivery. CTC shall be responsible for making all arrangements and paying for
+the transportation of gas from the Point of Delivery and to the Point of
+Redelivery.
+
+2.8 The parties will cooperate to the extent operationally feasible to avoid
+imbalances resulting in imbalance or penalty charges, and/or cash-out
+obligations, under the provisions of the applicable Transporter's Tariff. This
+cooperation will include maintaining operational balancing arrangements or
+similar arrangements with Transporter to reduce the likelihood of imbalance or
+penalty charges being incurred. Each party will promptly notify the other
+whenever it has knowledge of an imbalance condition that must be corrected to
+avoid such imbalance or penalty charges, or cash-out obligations. Should either
+party incur an imbalance or penalty charge, or cash-out obligation from a
+Transporter, both parties shall use their reasonable efforts to determine the
+validity as well as the cause of such imbalance or penalty charge, or cash-out
+obligation. If the parties determine that the imbalance or penalty charge, or
+cash-out obligation was imposed solely as a result of Customer's actions or
+omissions, then Customer shall pay such imbalance, penalty charge, or cash-out
+obligation. If the parties determine that the imbalance or penalty charge, or
+cash-out obligation was imposed solely as a result of CTC's actions or
+omissions, then CTC shall pay such imbalance or penalty charge, or cash-out
+obligation. If the parties determine that the imbalance or penalty charge, or
+cash-out obligation was imposed as a result of the actions or omissions of both
+parties, then each party shall pay that portion of the imbalance or penalty
+charge, or cash-out obligation caused by its actions or omissions.
+
+2.9 Upon expiration or termination of this Agreement, Customer shall be
+obligated to schedule redelivery of any positive balance reflected in Customer's
+Exchange Account by the end of the month in which expiration or termination is
+deemed to be effective. Customer may solicit an offer from CTC to purchase
+remaining Exchange Account volumes, but CTC shall be under no obligation to
+purchase the same. For volumes remaining in Customer's Exchange Account after
+the end of the month in which expiration or termination is deemed effective,
+such volumes shall be redelivered to Customer, or purchased by CTC, or a
+third-party within one (1) month of such expiration or termination; if such
+redelivery or purchase does not occur within the one-month period, then Customer
+shall continue to pay applicable charges pursuant to Section 3.1(a) below, until
+such volumes are redelivered to Customer, or purchased by CTC, or a third-party.
+Unless CTC and Customer agree otherwise in a separate written instrument CTC is
+under no obligation to redeliver volumes sold by Customer to a third party.
+
+ARTICLE III
+
+PRICE
+
+3.1 Customer shall pay CTC for each month during the term of this Agreement the
+following Fees:
+
+(a) A fixed monthly fee of $123,333.00;
+
+3.2 The Exchange Fee set forth in Section 3.1 does not include taxes, if any,
+arising out of the transaction. Customer shall pay all taxes imposed on, or with
+respect to, the natural gas prior to its delivery at the Points of Delivery and
+at and after its redelivery at the Point of Redelivery. CTC shall pay all taxes
+imposed on, or with respect to, the gas at and after its delivery at the Points
+of Delivery and prior to its redelivery at the Point of Redelivery. Each party
+shall furnish the other with any applicable exemption or resale certificates
+prior to initial deliveries.
+
+ARTICLE IV
+
+BILLING AND PAYMENT
+
+4.1 Beginning in August 2000 and on or before the tenth (10th) day of each month
+thereafter during the term of this Agreement and the month immediately following
+the termination date, CTC shall render a statement to Customer for the
+applicable Exchange Fee provided for in Article III, above. Customer shall pay
+to CTC on or before the twenty-fifth (25th) day of the month the amount billed
+in that statement; provided that, if the twenty-fifth (25th) day of the month is
+not a Business Day, Customer shall pay the stated amount on the next succeeding
+Business Day. If CTC is late in rendering its statement, the due date for
+payment shall be extended on a day-for-day basis to the next Business Day.
+Unless notified otherwise, all payments shall be made by electronic transfer to
+a bank account specified by CTC on the monthly statement.
+
+4.2 In the event that Customer disputes any portion of a statement rendered
+pursuant to Article III, above the total undisputed amount shall nevertheless be
+paid when due. If the parties cannot resolve the dispute within thirty (30) days
+after such payment, the matter shall be submitted to a mutually agreed upon firm
+of nationally known public accountants or other third party with appropriate
+expertise (the "Expert") who shall examine the records and billings and make a
+written report thereon, which shall be delivered to each party. The decision
+rendered by the Expert in this report shall be binding upon both parties. The
+party against whom the Expert's decision is rendered shall pay the fees and
+expenses of the Expert incurred in connection with such decision. If both
+parties prevail with respect to some part of the Expert's decision, the fees and
+expenses of the Expert shall be allocated between the parties in a manner
+appropriate to the Expert's decision. Each party shall pay for its own expenses,
+including attorneys' fees, with respect to any such dispute.
+
+4.3 Should Customer fail to pay the undisputed amount of any statement rendered
+by CTC when such amount is due, or any disputed amount ultimately determined to
+be due, Customer shall pay CTC interest thereon from the date due until the date
+of payment at an annual rate equal to the lesser of (1) the then-effective prime
+rate of interest as published under the heading "Money Rates" in The Wall Street
+Journal, plus one percent (1%), or (2) the maximum rate allowed by law. In
+addition, CTC may, upon two (2) Business Days prior written notice sent to
+Customer by facsimile transmission, suspend further service under this Agreement
+until amounts are paid in full and/or may terminate this Agreement.
+
+4.4 Each party shall have the right, at its expense and during normal business
+hours, and upon two (2) Business Days prior notice, to audit the books and
+records of the other party to the extent necessary to verify the accuracy of any
+statement rendered under this Agreement.
+
+4.5 Should CTC find at any time within twenty-four (24) months after the date of
+any statement rendered by it that there has been an undercharge in the amount
+billed in the statement rendered to Customer for services provided under this
+Agreement, CTC may submit a statement for such undercharge, and Customer, upon
+verifying the same, shall pay such amount within thirty (30) days after receipt
+of the statement, with interest as provided for in Section 4.3.
+
+4.6 Should Customer find at any time within twenty-four (24) months after the
+date of any statement rendered by CTC that there has been an overcharge in the
+amount billed in the statement by CTC to Customer for services rendered under
+this Agreement, and if Customer has paid said overcharge, the overcharge, if
+verified by CTC, shall be refunded within thirty (30) days of notification by
+Customer, with interest as provided for in Section 4.3.
+
+ARTICLE V
+
+CREDITWORTHINESS
+
+5.1 Upon execution of this Agreement, or at any time during the term hereof,
+should CTC have a reasonable good faith belief that Customer lacks the ability
+to meet its payment obligation, either because of Customer's failure to meet the
+criteria for creditworthiness under CTC's credit policy, or otherwise, CTC may
+require that Customer do any one of the following:
+
+(a) provide CTC with a corporate guarantee of Customer's payment obligation
+under this Agreement within fourteen (14) days after receiving a request to do
+so; or
+
+(b) provide CTC with an irrevocable stand-by letter of credit in a form, and
+with a bank, reasonably acceptable to CTC within fourteen (14) days after
+receiving a request to do so.
+
+ 
+
+Should Customer fail to comply with any one of the requirements set forth above,
+CTC may, at its option, refuse to commence, suspend, and/or terminate service
+under this Agreement, with no liability on either party's part except for
+payment of amounts due and owing under the Agreement and disposition of any gas
+in the Exchange Account in accordance with Section 6.1.
+
+ARTICLE VI
+
+TERM
+
+6.1 This Agreement shall be effective as of July 1, 2000, and shall continue
+through March 31, 2001. The Parties agree that any natural gas remaining in
+Customer's Exchange Account upon the expiration or termination of this
+agreement, shall be subject to the disposition procedure identified in Section
+2.10.
+
+ARTICLE VII
+
+MEASUREMENT AND QUALITY
+
+7.1 All gas delivered hereunder shall be measured at the Point of Delivery by
+the Transporter operating the measurement equipment at the Point of Delivery,
+and shall conform to the measurement and quality specifications contained in
+that Transporter's Tariff.
+
+7.2 All gas redelivered hereunder shall be measured at the Point of Redelivery
+by the Transporter operating the measurement equipment at the Point of
+Redelivery, and shall conform to the measurement and quality specifications
+contained in that Transporter's Tariff.
+
+ARTICLE VIII
+
+FORCE MAJEURE
+
+8.1 Neither CTC nor Customer shall be liable in damages to the other for any
+act, omission or circumstances occasioned by or in consequence of any acts of
+God, explosions, breakage or accident to machinery or lines of pipe, line
+freezeups, curtailments instituted by any Transporter(s), the binding order of
+any court or governmental authority, or any other cause, whether of the kind
+herein enumerated, or otherwise, not within the control of the party claiming
+force majeure and which by the exercise of due diligence such party is unable to
+prevent or overcome. The term "force majeure" as used in this Agreement shall
+not include (a) the curtailment or interruption of interruptible transportation
+by Transporter; (b) the loss of Customer's markets nor Customer's inability
+economically to use or resell gas purchased hereunder; or (c) the loss or
+failure of CTC's gas supply, including, without limitation, depletion of
+reserves or other failure of production, nor CTC's ability to sell gas to a
+market at a more advantageous price.
+
+8.2 Such causes or contingencies affecting the performance of this Agreement by
+either party, however, shall not relieve it of liability in the event of its
+concurring negligence or in the event of its failure to use due diligence to
+remedy the situation and remove the cause in an adequate manner and with all
+reasonable dispatch; nor shall such causes or contingencies affecting the
+performance of this Agreement relieve either party from its obligation to make
+payment of amounts then due hereunder, nor shall such causes or contingencies
+relieve either party of liability unless such party shall give notice and full
+particulars of the same in writing or by facsimile transmission to the other
+party as soon as possible after the occurrence relied on.
+
+ARTICLE IX
+
+REGULATION
+
+9.1 This Agreement is subject to all valid laws, orders, rules and regulations
+of duly constituted governmental authorities having jurisdiction.
+Notwithstanding any other provision in this Agreement, if any regulatory body,
+governmental entity or agency having jurisdiction prohibits any transaction
+entered into pursuant to this Agreement or otherwise conditions such transaction
+in a form that is unacceptable in the sole judgment of the party affected
+thereby, then the party so affected may terminate this Agreement by thirty (30)
+days prior written notice stating the date of such termination, with no
+liability on either party's part except for payment of amounts due and owing
+under the Agreement and disposition of any remaining gas in Customer's Exchange
+Account in accordance with Section 2.10.
+
+ARTICLE X
+
+WARRANTY
+
+10.1 Each party warrants that all gas delivered and redelivered hereunder shall
+be free and clear of all liens, encumbrances and claims whatsoever, and that it
+will indemnify the other party and save it harmless from suits, actions, debts,
+accounts, damages, costs, losses and expenses, including attorneys' fees,
+arising from or out of adverse claims of any and all persons to said gas or
+arising from royalties, taxes, license fees or charges thereon, to the extent
+that they arise or attach to the gas when it is subject to the indemnifying
+party's control and possession as defined in Article Xl, below.
+
+ARTICLE Xl
+
+POSSESSION AND LIABILITY
+
+11.1 With respect to gas delivered by Customer to CTC, Customer shall be deemed
+in exclusive control and possession of the gas, and responsible for any damages
+or injuries caused thereby, until it is delivered to CTC at the Points of
+Delivery at which point title shall pass to CTC. CTC shall be deemed in
+exclusive control and possession of said gas and responsible for any damages or
+injuries caused thereby, at and after it is delivered by Customer to CTC at the
+Points of Delivery.
+
+11.2 With respect to gas redelivered by CTC to Customer, CTC shall be deemed in
+exclusive control and possession of the gas, and responsible for any damages or
+injuries caused thereby, until it is delivered to Customer at the Point of
+Redelivery at which point title shall pass to Customer. Customer shall be deemed
+in exclusive control and possession of said gas, and responsible for any damages
+or injuries caused thereby, at and after it is redelivered by CTC to Customer at
+the Point of Redelivery.
+
+ARTICLE XII
+
+NOTICES
+
+12.1 Unless otherwise provided herein, all communications from one party to the
+other shall be sent by registered mail, overnight courier or facsimile
+transmission, and shall be effective upon receipt thereof. However, routine
+communications shall be deemed duly delivered when mailed by either registered
+or ordinary mail, or sent by overnight courier or facsimile transmission
+(telecopy). Communications sent by ordinary mail shall be considered received
+three (3) Business Days after deposit in the mail. Monthly statements shall be
+sent by overnight courier or facsimile transmission. All communications should
+be addressed to:
+
+CUSTOMER:
+
+ 
+
+CTC:
+
+All Correspondence
+
+ 
+
+ 
+
+The Peoples Gas Light and Coke Company
+
+ 
+
+CoEnergy Trading Company
+
+130 E. Randolph Drive
+
+ 
+
+150 West Jefferson
+
+Gas Supply Administration
+
+ 
+
+Suite 1800
+
+22nd Floor
+
+ 
+
+Detroit, Michigan 48226
+
+Chicago, Illinois 60601
+
+ 
+
+Attn: Mr. Kevin McCracken
+
+Attn: Mr. Dave Wear, Manager
+
+ 
+
+Telephone: (313) 256-5925
+
+Telephone: (312) 240-4554
+
+ 
+
+Facsimile: (313) 256-5739
+
+Facsimile: (312) 240-4211
+
+ 
+
+Duns #: 806 708 806
+
+Duns#: 006 932 115
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Operating Communications
+
+ 
+
+Attn: Ms. Margo Pardi
+
+Attn: Gas Control
+
+ 
+
+Telephone: (313) 256-6299
+
+Telephone: (312) 240-4754
+
+ 
+
+Facsimile: (313) 963-3636
+
+Facsimile: (312) 240-4762
+
+ 
+
+After Hours Telephone: (800) 506-9857
+
+ 
+
+ 
+
+ 
+
+For Payments
+
+:
+
+ 
+
+CoEnergy Trading Company
+
+Not Applicable
+
+ 
+
+150 West Jefferson
+
+ 
+
+ 
+
+Suite 1800
+
+ 
+
+ 
+
+Detroit, Michigan 48226
+
+ 
+
+ 
+
+Attn: Accounts Payable
+
+ 
+
+ARTICLE XIII
+
+GOVERNING LAW AND JURISDICTION
+
+13.1 This Agreement shall be governed by the law of the state of Michigan
+without regard to principles of conflicts of law.
+
+ARTICLE XIV
+
+NON-WAIVER OF FUTURE DEFAULTS
+
+14.1 No waiver by either party of any one or more defaults by the other in the
+performance of any provision of this Agreement shall operate or be construed as
+a waiver of any future default or defaults, whether of a like or of a different
+character.
+
+ARTICLE XV
+
+TRANSFER AND ASSIGNMENT
+
+15.1 Any company that shall succeed by purchase, merger or consolidation to
+either party hereto shall be entitled to the rights and shall be subject to the
+obligations of its predecessor in title under this Agreement. Either party may,
+without relieving itself of its obligations under this Agreement, assign any of
+its rights and obligations hereunder to a corporation with which it is
+affiliated at the time of such assignment. Otherwise, no assignment of this
+Agreement or of any rights or obligations hereunder shall be made by either
+party without the prior written consent of the other party, which consent shall
+not be unreasonably withheld. The provisions of this Article XV shall not
+prevent either party from pledging or mortgaging its rights hereunder as
+security for its indebtedness. This Agreement shall be binding upon and inure to
+the benefit of the respective successors and permitted assigns of the parties
+hereto.
+
+ARTICLE XVI
+
+LIMITATION ON DAMAGES
+
+16.1 Neither party shall be liable to the other for any incidental,
+consequential (including lost profits), indirect, special, exemplary, or
+punitive damages.
+
+ARTICLE XVII
+
+ENTIRE AGREEMENT
+
+17.1 This Agreement constitutes the entire agreement between the parties
+concerning the subject matter hereof. Any prior understandings, representations,
+promises, undertakings, agreements or inducements, whether written or oral,
+concerning the subject matter hereof not contained herein shall have no force
+and effect. This Agreement may be modified or amended only by writing that is
+duly executed by both parties.
+
+ARTICLE XVIII
+
+CONFIDENTIALITY
+
+18.1 Each party will keep the terms of this Agreement confidential during the
+term hereof, using the same degree of care it customarily uses with respect to
+confidential business information, provided that disclosure may be made to a
+regulatory authority having jurisdiction if requested or required by that
+authority, or if the party is obligated by law, rule or order to make such
+disclosure. If disclosure to a regulatory authority is made, the disclosing
+party will request confidential treatment of the disclosed information.
+
+ARTICLE XIX
+
+THIRD PARTY BENEFICIARY
+
+19.1 Customer and CTC agree that there are no third party beneficiaries of this
+Agreement and that the provisions of this Agreement do not impart enforceable
+rights to anyone who is not a signatory to this Agreement.
+
+ 
+
+IN WITNESS WHEREOF,
+
+the parties hereto have caused this Agreement to be executed in duplicate by
+their duly authorized officers, as of the day and year first above written.
+
+
+
+ 
+
+THE PEOPLES GAS LIGHT AND
+
+ 
+
+COENERGY TRADING COMPANY
+
+COKE COMPANY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By: /s/ William E. Morrow
+
+ 
+
+By: /s/ Steven E. Kurmas
+
+William E. Morrow
+
+ 
+
+Name: Steven E. Kurmas
+
+Executive Vice President
+
+ 
+
+Title: President & CEO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Reviewed O.G.C.
+
+ 
+
+ 
+
+BY 6/21/00

@@ -1,0 +1,379 @@
+THIRD AMENDMENT TO AMENDED AND RESTATED LOAN AGREEMENT
+
+ 
+
+    THIS THIRD AMENDMENT TO AMENDED AND RESTATED LOAN AGREEMENT
+
+(this "Amendment"), made and entered into as of August 13, 2001, by and between
+FAIRFIELD MANUFACTURING COMPANY, INC., a Delaware corporation ("Borrower"), and
+GENERAL ELECTRIC CAPITAL CORPORATION, [a Delaware corporation, as successor by
+merger to General Electric Capital Corporation,] a New York corporation ("GE
+Capital"), as sole "Lender" under the "Loan Agreement" hereinafter referred to
+and as agent for itself and the other "Lenders" who may hereafter become parties
+to the Loan Agreement (GE Capital, in such capacity, the "Agent").  
+
+RECITALS
+
+:
+
+    A.    Borrower and GE Capital, as a Lender and as Agent, are parties to a
+certain Amended and Restated Loan Agreement, dated as of December 30, 1999 (as
+amended to date, the "Loan Agreement"; capitalized terms used herein and not
+defined herein shall have the meanings assigned to them in the Loan Agreement),
+pursuant to which GE Capital, as sole Lender thereunder, makes certain financial
+accommodations to Borrower.
+
+ 
+
+    B.    An Event of Default has occurred and is continuing as a result of
+Borrower's failure to comply with the provisions of Section 6.22 of the Loan
+Agreement for the Fiscal Quarter ending June 30, 2001 ("Existing Event of
+Default").
+
+ 
+
+    C.    Borrower has requested that Lenders waive the Existing Event of
+Default and agree to amend the financial covenants and certain other provisions
+of the Loan Agreement in the manner hereinafter set forth.
+
+ 
+
+    D.    Subject to the terms and conditions set forth herein, Lenders are
+willing to do so.
+
+ 
+
+    In consideration of the premises and the mutual covenants and agreements
+herein contained, the parties hereto covenant and agree as follows:
+
+ 
+
+    1.    Waiver of Existing Event of Default. Subject to the terms and
+conditions hereof, Lenders hereby waive the Existing Event of Default; provided,
+however, that such waiver is limited to the Existing Event of Default and shall
+not be deemed to be a waiver of any other Event of Default whether presently
+existing or hereafter arising.
+
+ 
+
+    2.    Amendments to Section 1.1 of the Loan Agreement.
+
+ 
+
+    (a)    Section 1.1 of the Loan Agreement is hereby amended by adding the
+following clause (f) to the definition of "Consolidated EBITDA" included
+therein:
+
+ 
+
+minus
+
+(plus) (f) to the extent otherwise included in the calculation of Consolidated
+EBITDA, the portion of the earnings (loss) before interest, taxes, depreciation
+and amortization of any Subsidiary of Borrower which is attributable to the
+minority interest therein.  
+
+    (b)    Section 1.1 of the Loan Agreement is hereby further amended by
+deleting clause (d) of the definition of Consolidated Fixed Charges in its
+entirety and substituting in lieu thereof a revised clause (d) to read as
+follows:
+
+ 
+
+plus
+
+(d) all cash payments made by Borrower to purchase Exchangeable Preferred Stock
+or Senior Subordinated Notes during such period, other than payments made from
+the proceeds of cash capital contributions not made under or with respect to the
+Tax Sharing Agreement,  
+
+    (c)    Section 1.1 of the Loan Agreement is hereby further amended by
+deleting the definition of "Fixed Rate" set forth therein in its entirety and
+substituting in lieu thereof the following revised definition of "Fixed Rate":
+
+ 
+
+    "Fixed Rate" means the LIBOR Rate plus the "Applicable LIBOR Margin":
+
+ 
+
+    The "Applicable LIBOR Margin" shall mean, as to the Revolving Credit Loan,
+one and three-fourths percent (1-3/4%) per annum, and, as to the Term Loan and
+all other Obligations (other than Obligations under the Revolving Credit Loan),
+two percent (2%) per annum.
+
+ 
+
+    3.    Amendment to Section 6.3 of the Loan Agreement. Section 6.3 of the
+Loan Agreement is hereby amended by deleting clause (l) thereof in its entirety
+and substituting in lieu thereof the following revised clause (l):
+
+ 
+
+    (l)     purchases by Borrower or any Subsidiary of Borrower of the
+Exchangeable Preferred Stock or Senior Subordinated Notes so long as (i) the
+total amount expended for such purchases does not exceed $15,000,000 in the
+aggregate in any Fiscal Year, (ii) after giving effect to any such purchase,
+Borrower has (A) a ratio of Consolidated Cash Flow to Consolidated Fixed Charges
+of at least 1.00:1.00 and (B) a ratio of Consolidated EBITDA to Consolidated Net
+Interest Expense of at least 1.50:1.00, in each case determined on a pro forma
+basis as of the last Fiscal Quarter for which financial statements have been
+provided hereunder and (iii) at the time of the making of any such purchase, no
+Default or Event of Default shall have occurred and be continuing or will result
+from the making of such purchase.
+
+ 
+
+    4.    Amendment to Section 6.21 of the Loan Agreement. Section 6.21 of the
+Loan Agreement is hereby amended by inserting the following sentence at the end
+of the such Section:
+
+ 
+
+Notwithstanding the foregoing, Borrower's failure to comply with the provisions
+of this Section 6.21 during the period commencing on September 30, 2001 (and
+including the Fiscal Quarter ending September 30, 2001) and ending on September
+30, 2002 (and including the Fiscal Quarter ending September 30, 2002) shall not
+constitute an Event of Default so long as Borrower complies with the reporting
+requirements of Section 7.1(f) relative to the reporting of its compliance (or
+lack thereof) with such covenant.
+
+ 
+
+    5.     Amendment to Section 6.22 of the Loan Agreement. Section 6.22 of the
+Loan Agreement is hereby deleted in its entirety and the following revised
+Section 6.22 is hereby substituted in lieu thereof:
+
+ 
+
+    6.22    Interest Coverage Ratio. Borrower shall not permit the ratio of
+(a) Consolidated EBITDA for any Fiscal Quarter to (b) Consolidated Net Interest
+Expense for such Fiscal Quarter to be less than the ratio set forth below next
+to the applicable Fiscal Quarter set forth below:
+
+ 
+
+            FISCAL QUARTER
+
+RATIO
+
+            September 30, 2001
+
+1.05:1.00
+
+            December 31, 2001
+
+.85:1.00
+
+            March 31, 2002
+
+.60:1.00
+
+            June 30, 2002
+
+.70:1.00
+
+            September 30, 2002
+
+.70:1.00
+
+            December 31, 2002
+
+.80:1.00
+
+            March 31, 2003
+
+1.00:1.00
+
+            June 30, 2003
+
+1.00:1.00
+
+            September 30, 2003
+
+1.25:1.00
+
+            December 31, 2003 and each
+
+1.50:1.00
+
+               Fiscal Quarter thereafter
+
+   
+
+    For purposes of this Section 6.22, Consolidated EBITDA and Consolidated Net
+Interest Expense shall be calculated based upon the period of four Fiscal
+Quarters ending on the date of calculation.
+
+ 
+
+    6.     Addition of New Section 6.23 to the Loan Agreement. The Loan
+Agreement is hereby further amended by adding thereto a new Section 6.23 to read
+as follows:
+
+ 
+
+    6.23     Minimum Excess Availability. Borrower shall maintain at all times
+"Excess Availability" of at least Seven Million Dollars ($7,000,000). For
+purposes hereof, "Excess Availability" shall mean, at any time, an amount equal
+to (a) the Borrowing Base minus (b) the sum of all outstanding Advances plus the
+aggregate face amount of all outstanding Letters of Credit.
+
+ 
+
+    7.    Amendment Fee. In consideration of the waiver and amendments set forth
+herein, Borrower shall pay to Lenders an amendment fee in the amount of $44,750
+upon the execution hereof by the Lenders.
+
+ 
+
+    8.     Other Agreements
+
+ 
+
+    (a) Within sixty (60) days after the date hereof or such longer period
+agreed upon by the Agent, Borrower will execute and deliver to the Agent such
+amendments to the Loan Agreement and the other Loan Documents as the Agent may
+reasonably request to conform the applicable provisions of the Loan Agreement
+and the other Loan Documents to the provisions of Revised Article 9.
+
+ 
+
+    (b) Except as set forth expressly herein and above, all terms of the Loan
+Agreement and the other Loan Documents shall be and remain in full force and
+effect and shall constitute the legal, valid, binding and enforceable
+obligations of Borrower to the Agent and Lenders. In furtherance of the
+foregoing, Borrower acknowledges that from and after the date hereof, it shall
+continue to be bound by all provisions of the Loan Agreement as amended hereby,
+including, without limitation, its reimbursement obligations in respect of the
+India Guaranty, as the amount thereof has been increased as described herein. To
+the extent any terms and conditions in any of the other Loan Documents shall
+contradict or be in conflict with any terms or conditions of the Loan Agreement,
+after giving effect to this Amendment, such terms and conditions are hereby
+deemed modified and amended accordingly to reflect the terms and conditions of
+the Loan Agreement as modified and amended hereby.
+
+ 
+
+    (c) Borrower agrees to pay on demand the reasonable fees and out-of-pocket
+expenses of counsel to GE Capital incurred in connection with the preparation,
+execution, delivery and enforcement of this Amendment, the closing hereof, and
+any other transactions contemplated hereby.
+
+ 
+
+    (d) To induce the Agent and Lenders to enter into this Amendment, Borrower
+hereby acknowledges and agrees that, as of the date hereof, there exists no
+right of offset, defense or counterclaim in favor of Borrower as against the
+Agent or Lenders with respect to the Obligations.
+
+ 
+
+    (e) This Amendment shall be governed by, and construed in accordance with
+the laws of the State of New York applicable to contracts made and performed in
+such State and all applicable laws of the United States of America.
+
+ 
+
+    (f) This Amendment may be executed in two or more counterparts, all of which
+shall constitute one and the same agreement.
+
+ 
+
+IN WITNESS WHEREOF
+
+, the parties hereto have caused this Amendment to be executed by their
+respective officers thereunto duly authorized, as of the date first above
+written.  
+
+
+
+FAIRFIELD MANUFACTURING COMPANY, INC.
+
+
+By:__________________________
+    Richard A. Bush
+    Vice President - Chief Financial Officer
+
+
+ 
+
+
+
+General ELECTRIC CAPITAL CORPORATION , as Agent
+
+
+By:__________________________
+    Name:____________________
+    Title:_____________________
+
+
+ 
+
+
+
+General ELECTRIC CAPITAL CORPORATION , as Lender
+
+
+By:__________________________
+    Name:____________________
+    Title:_____________________
+
+
+
+
+
+
+ACKNOWLEDGMENT OF GUARANTOR
+
+
+
+The undersigned, T-H Licensing, Inc., hereby (a) acknowledges its receipt of a
+copy of and consents to the within and foregoing amendment, (b) agrees to be
+bound by the provisions thereof and (c) acknowledges and agrees that the
+Subsidiary Guaranty, the Subsidiary Security Agreement and all other Loan
+Documents to which the undersigned is a party shall continue in full force and
+effect from and after the execution and delivery of the within and foregoing
+Amendment without diminution or impairment.
+
+IN WITNESS WHEREOF
+
+, the undersigned has set its hand as of the 13th day of August, 2001.
+
+
+
+
+
+
+
+T-H LICENSING, INC.
+
+By:__________________________
+    Name:____________________
+    Title:_____________________
+
+ 
+
+ACKNOWLEDGMENT OF LANCER
+
+ 
+
+The undersigned, Lancer Industries Inc., hereby (a) acknowledges its receipt of
+a copy of and consents to the within and foregoing amendment, (b) agrees to be
+bound by the provisions thereof and (c) acknowledges and agrees that the Lancer
+Pledge Agreement shall continue in full force and effect from and after the
+execution and delivery of the within and foregoing Amendment without diminution
+or impairment.
+
+IN WITNESS WHEREOF
+
+, the undersigned has set its hand as of the 13th day of August, 2001.  
+
+
+
+LANCER INDUSTRIES INC.
+
+By:__________________________
+    Name:____________________
+    Title:_____________________
+

@@ -1,0 +1,348 @@
+
+QuickLinks -- Click here to rapidly navigate through this document
+
+
+Exhibit 10.47
+
+
+Notice of Grant of Stock Option
+and Option Agreement   Wind River Systems, Inc.
+ID: 94-2873391
+500 Wind River Way
+Alameda, CA 94501    
+
+--------------------------------------------------------------------------------
+
+[Name of Optionholder]
+[Address of Optionholder]   Option Number:
+Plan:   [Option Number]
+1998 Non-Officer Stock Option Plan
+
+--------------------------------------------------------------------------------
+
+Effective on [Date of Grant] (the "Date of Grant"), you have been granted a(n)
+Non-Qualified Stock Option to buy [Number of Shares] shares of Wind River
+Systems, Inc. (the Company) stock at $[Price Per Share] per share. The date on
+which your option begins to vest is [Vesting Start Date] (the "Vesting Start
+Date").
+
+The total option price of the shares granted is [Total Exercise Price of
+Option].
+
+Shares in each period will become fully vested on the date shown.
+
+Shares
+
+  Vest Type
+
+  Full Vest
+
+  Expiration Date
+
+[Number of Shares]   On Vest Date   [Month/Day/Year]   [Month/Day/Year] [Number
+of Shares]   Monthly   [Month/Day/Year]   [Month/Day/Year]
+
+Note:  Please refer to Section 2 of your option agreement with regard to
+limitation on exercise.
+
+--------------------------------------------------------------------------------
+
+By your signature and the Company's signature below, you and the Company agree
+that this option is granted under and governed by the terms and conditions of
+the Company's Stock Option Plan (see above reference to plan) as amended and
+made available on the Wind River internal web site and the attached Option
+Agreement, both of which are incorporated by reference and made a part of this
+document.
+
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+
+Wind River Systems, Inc.  
+
+--------------------------------------------------------------------------------
+
+Date
+
+
+--------------------------------------------------------------------------------
+
+[Name of Optionholder]
+ 
+
+
+--------------------------------------------------------------------------------
+
+Date
+
+--------------------------------------------------------------------------------
+
+ATTACHMENT I
+
+WIND RIVER SYSTEMS, INC.
+1998 NON-OFFICER STOCK OPTION PLAN
+
+NONSTATUTORY STOCK OPTION AGREEMENT
+(FOR OPTIONEES SUBJECT TO THE LAWS OF FRANCE)
+(For Grants Made On or After August 1, 2001)
+
+    Pursuant to your Notice of Grant of Stock Option ("Grant Notice") and this
+Stock Option Agreement, Wind River Systems, Inc. (the "Company") has granted you
+an option under its 1998 Non-Officer Stock Option Plan (together with the
+addendum to the 1998 Non-Officer Stock Option Plan attached hereto captioned
+"Provisions Applicable to Persons Subject to the Laws of France" and
+collectively referred to herein as the "Plan") to purchase the number of shares
+of the Company's Common Stock indicated in your Grant Notice at the exercise
+price indicated in your Grant Notice. Defined terms not explicitly defined in
+this Stock Option Agreement but defined in the Plan shall have the same
+definitions as in the Plan.
+
+    The details of your option are as follows:
+
+    1.  Vesting.  Subject to the limitations contained herein, your option will
+vest as provided in your Grant Notice, provided that vesting will cease upon the
+termination of your Continuous Service.
+
+    2.  Limitation on Exercise.  Notwithstanding any vesting under Section 1
+hereof, your option may not be exercised prior to four years after the Date of
+Grant.
+
+    3.  Number of Shares and Exercise Price.  The number of shares of Common
+Stock subject to your option and your exercise price per share referenced in
+your Grant Notice may be adjusted from time to time for capitalization
+adjustments, as provided in Section 11 of the Plan, to the extent such
+adjustments do not cause the Company to become subject to tax liabilities to
+which it otherwise would not be subject.
+
+    4.  Method of Payment.  Payment of the exercise price is due in full upon
+exercise of all or any part of your option. You may elect to make payment of the
+exercise price in cash or by check or in the following manner:
+
+    (a)  In the Company's sole discretion at the time your option is exercised
+and provided that at the time of exercise the Common Stock is publicly traded
+and quoted regularly in The Wall Street Journal, pursuant to a program developed
+under Regulation T as promulgated by the Federal Reserve Board that, prior to
+the issuance of Common Stock, results in either the receipt of cash (or check)
+by the Company or the receipt of irrevocable instructions to pay the aggregate
+exercise price to the Company from the sales proceeds.
+
+    5.  Whole Shares.  You may exercise your option only for whole shares of
+Common Stock.
+
+    6.  Securities Law Compliance.  Notwithstanding anything to the contrary
+contained herein, you may not exercise your option unless the shares of Common
+Stock issuable upon such exercise are then registered under the Securities Act.
+The exercise of your option must also comply with other applicable laws and
+regulations governing your option, and you may not exercise your option if the
+Company determines that such exercise would not be in material compliance with
+such laws and regulations.
+
+    7.  Term.  The term of this option commences on the Date of Grant, and
+expires at midnight on the Expiration Date, (which is the day before the tenth
+anniversary from the date of grant), unless this option expires sooner as set
+forth below or in the Plan. In no event may this option be exercised on or after
+the Expiration Date. This option shall terminate prior to the Expiration Date of
+its term as follows: on the later of (i) six (6) months after the termination of
+your Continuous Status as an Employee, Director or Consultant (as defined in the
+Plan) with the Company or an Affiliate of the Company or (ii) if such
+termination occurs prior to the expiration of the four (4) year period referred
+
+--------------------------------------------------------------------------------
+
+to in Section 2 of this option, four (4) years and six (6) months after the Date
+of Grant, unless one of the following circumstances exists:
+
+    (a)  If your termination of Continuous Status as an Employee, Director or
+Consultant is due to your permanent and total disability (within the meaning of
+Section 422(c)(6) of the Code), then this option will then expire on the earlier
+of (i) the Expiration Date set forth above or (ii) twelve (12) months following
+such termination; provided however, that if such termination occurs prior to the
+expiration of the four (4) year period referred to in Section 2 of this option,
+this option will expire on the earlier of (i) the Expiration Date set forth
+above or (ii) five (5) years from the Date of Grant.
+
+    (b)  If your termination of Continuous Status as an Employee, Director or
+Consultant is due to your death or your death occurs within three (3) months
+following such termination, then this option will expire on the earlier of
+(i) the Expiration Date set forth above or (ii) six (6) months after your death.
+
+    (c)  If during any part of such six (6) month period you may not exercise
+your option solely because of the condition set forth in Section 6 above, then
+your option will not expire until the earlier of the Expiration Date set forth
+above or until this option shall have been exercisable for an aggregate period
+of six (6) months after the later of (i) your termination of Continuous Status
+as an Employee, Director or Consultant or (ii) four (4) years from the Date of
+Grant.
+
+    However, this option may be exercised following termination of Continuous
+Status as an Employee, Director or Consultant only as to that number of shares
+as to which it was exercisable on the date of such termination under the
+provisions of Section 1 of this option.
+
+    8.  Exercise.
+
+    (a)  You may exercise the vested portion of your option during its term, to
+the extent specified above, by delivering a Notice of Exercise (in a form
+designated by the Company) together with the exercise price to the Secretary of
+the Company, or to such other person as the Company may designate, during
+regular business hours, together with such additional documents as the Company
+may then require.
+
+    (b)  By exercising your option you agree that, as a condition to any
+exercise of your option, the Company may require you to enter into an
+arrangement providing for the payment by you to the Company of any tax
+withholding obligation of the Company arising by reason of (1) the exercise of
+your option or (2) the disposition of shares of Common Stock acquired upon such
+exercise.
+
+    9.  Transferability.  Your option is not transferable, except by will or by
+the laws of descent and distribution, and is exercisable during your life only
+by you. Notwithstanding the foregoing, by delivering written notice to the
+Company, in a form satisfactory to the Company, you may designate a third party
+who, in the event of your death, shall thereafter be entitled to exercise your
+option.
+
+    10.  Option not a Service Contract.  Your option is not an employment or
+service contract, and nothing in your option shall be deemed to create in any
+way whatsoever any obligation on your part to continue in the employ of the
+Company or an Affiliate, or of the Company or an Affiliate to continue your
+employment. In addition, nothing in your option shall obligate the Company or an
+Affiliate, their respective shareholders, Boards of Directors, Officers or
+Employees to continue any relationship that you might have as a Director or
+Consultant for the Company or an Affiliate.
+
+    11.  Withholding Obligations.
+
+    (a)  At the time you exercise your option, in whole or in part, or at any
+time thereafter as requested by the Company, you hereby authorize withholding
+from payroll and any other amounts
+
+2
+
+--------------------------------------------------------------------------------
+
+payable to you, and otherwise agree to make adequate provision for (including by
+means of a "cashless exercise" pursuant to a program developed under
+Regulation T as promulgated by the Federal Reserve Board to the extent permitted
+by the Company), any sums required to satisfy the federal, state, local and
+foreign tax withholding obligations of the Company or an Affiliate, if any,
+which arise in connection with your option.
+
+    (b)  Upon your request and subject to approval by the Company, in its sole
+discretion, and in compliance with any applicable conditions or restrictions of
+law, the Company may withhold from fully vested shares of Common Stock otherwise
+issuable to you upon the exercise of your option a number of whole shares of
+Common Stock having a Fair Market Value, determined by the Company as of the
+date of exercise, not in excess of the minimum amount of tax required to be
+withheld by law. Any adverse consequences to you arising in connection with such
+share withholding procedure shall be your sole responsibility.
+
+    (c)  You may not exercise your option unless the tax withholding obligations
+of the Company and/or any Affiliate are satisfied. Accordingly, you may not be
+able to exercise your option when desired even though your option is vested, and
+the Company shall have no obligation to issue a certificate for such shares of
+Common Stock or release such shares of Common Stock from any escrow provided for
+herein.
+
+    12.  Notices.  Any notices provided for in your option or the Plan shall be
+given in writing and shall be deemed effectively given upon receipt or, in the
+case of notices delivered by mail by the Company to you, five (5) days after
+deposit in the United States mail, postage prepaid, addressed to you at the last
+address you provided to the Company.
+
+    13.  Governing Plan Document.  Your option is subject to all the provisions
+of the Plan, the provisions of which are hereby made a part of your option, and
+is further subject to all interpretations, amendments, rules and regulations
+which may from time to time be promulgated and adopted pursuant to the Plan. In
+the event of any conflict between the provisions of your option and those of the
+Plan, the provisions of the Plan shall control.
+
+3
+
+--------------------------------------------------------------------------------
+
+ATTACHMENT II
+
+NOTICE OF EXERCISE
+
+Wind River Systems, Inc.
+500 Wind River Way
+Alameda, CA 94501
+
+    Date of Exercise:            
+
+--------------------------------------------------------------------------------
+
+Ladies and Gentlemen:
+
+This constitutes notice under my stock option that I elect to purchase the
+number of shares for the price set forth below.
+
+Type of option:   Nonstatutory
+Effective Date of Option/Date of Grant:
+ 
+     
+
+--------------------------------------------------------------------------------
+
+
+Number of shares as to which option is exercised:
+ 
+     
+
+--------------------------------------------------------------------------------
+
+
+Certificate(s) to be issued in the name of:
+ 
+     
+
+--------------------------------------------------------------------------------
+
+
+Total exercise price:
+ 
+$    
+
+--------------------------------------------------------------------------------
+
+
+Cash payment delivered herewith:
+ 
+$    
+
+--------------------------------------------------------------------------------
+
+    By this exercise, I agree (i) to provide such additional documents as you
+may require pursuant to the terms of the 1998 Non-Officer Stock Option Plan and
+(ii) to provide for the payment by me to you (in the manner designated by you)
+of your withholding obligation, if any, relating to the exercise of this option.
+
+    Very truly yours,
+ 
+ 
+
+
+--------------------------------------------------------------------------------
+
+(Signature)
+ 
+ 
+
+
+--------------------------------------------------------------------------------
+
+(Print Name)
+
+1
+
+--------------------------------------------------------------------------------
+
+
+
+QuickLinks
+
+
+Exhibit 10.47
+

@@ -1,0 +1,242 @@
+[
+  {
+    "doc_id": "contract_001",
+    "source_row": "row_0.txt",
+    "title_guess": "AMENDED AND RESTATED EMPLOYMENT AND NONCOMPETITION AGREEMENT THIS AMENDED AND RESTATED EMP",
+    "orig_words": 5642,
+    "final_words": 4405,
+    "truncated": true
+  },
+  {
+    "doc_id": "contract_002",
+    "source_row": "row_1020.txt",
+    "title_guess": "TRI-PARTY ENHANCED AOT AGREEMENT This Agreement is made by and among E-Loan, Inc., [*] (\"O",
+    "orig_words": 2134,
+    "final_words": 2134,
+    "truncated": false
+  },
+  {
+    "doc_id": "contract_003",
+    "source_row": "row_1080.txt",
+    "title_guess": "SHAREHOLDER AGREEMENT SHAREHOLDER AGREEMENT dated as of March __, 2001, among the person(s",
+    "orig_words": 2571,
+    "final_words": 2571,
+    "truncated": false
+  },
+  {
+    "doc_id": "contract_004",
+    "source_row": "row_1140.txt",
+    "title_guess": "LEASE AGREEMENT Date: 8/13/01 LESSOR: LESSEE: Place & Plaza LLC c/o Wellington Management,",
+    "orig_words": 5177,
+    "final_words": 4405,
+    "truncated": true
+  },
+  {
+    "doc_id": "contract_005",
+    "source_row": "row_1200.txt",
+    "title_guess": "Notice of Grant of Stock Option and Option Agreement Wind River Systems, Inc. ID: 94-28733",
+    "orig_words": 2073,
+    "final_words": 2073,
+    "truncated": false
+  },
+  {
+    "doc_id": "contract_006",
+    "source_row": "row_1260.txt",
+    "title_guess": "AMENDMENT TO EMPLOYMENT AGREEMENT This Amendment to Employment Agreement (the \"Amendment\")",
+    "orig_words": 1232,
+    "final_words": 1232,
+    "truncated": false
+  },
+  {
+    "doc_id": "contract_007",
+    "source_row": "row_1320.txt",
+    "title_guess": "TERMINATION AGREEMENT THIS TERMINATION AGREEMENT (\u201cAgreement\u201d) is effective June 30, 2001,",
+    "orig_words": 559,
+    "final_words": 559,
+    "truncated": false
+  },
+  {
+    "doc_id": "contract_008",
+    "source_row": "row_1440.txt",
+    "title_guess": "CONSULTING AGREEMENT ___________________________ This consulting agreement (hereinafter re",
+    "orig_words": 983,
+    "final_words": 983,
+    "truncated": false
+  },
+  {
+    "doc_id": "contract_009",
+    "source_row": "row_1500.txt",
+    "title_guess": "AMENDED AND RESTATED STANDSTILL AND STOCK RESTRICTION AGREEMENT by and among COMMERCE ONE,",
+    "orig_words": 8084,
+    "final_words": 4405,
+    "truncated": true
+  },
+  {
+    "doc_id": "contract_010",
+    "source_row": "row_1560.txt",
+    "title_guess": "September 19, 2001 John Sluis 20 Old Orchard Lane Tonka Bay, MN 55331 Re: Retention Plan D",
+    "orig_words": 684,
+    "final_words": 684,
+    "truncated": false
+  },
+  {
+    "doc_id": "contract_011",
+    "source_row": "row_1680.txt",
+    "title_guess": "RICHMOND COUNTY FINANCIAL CORP. STOCK OPTION AGREEMENT STOCK OPTION AGREEMENT, dated as of",
+    "orig_words": 8753,
+    "final_words": 4405,
+    "truncated": true
+  },
+  {
+    "doc_id": "contract_012",
+    "source_row": "row_1740.txt",
+    "title_guess": "AGREEMENT OF AMENDMENT NO. 6 THIS AGREEMENT OF AMENDMENT NO. 6 (this \"Amendment\") is dated",
+    "orig_words": 2696,
+    "final_words": 2696,
+    "truncated": false
+  },
+  {
+    "doc_id": "contract_013",
+    "source_row": "row_180.txt",
+    "title_guess": "CREDIT AGREEMENT THIS CREDIT AGREEMENT dated as of September 15, 2000 (this \"Agreement\") i",
+    "orig_words": 28392,
+    "final_words": 4405,
+    "truncated": true
+  },
+  {
+    "doc_id": "contract_014",
+    "source_row": "row_1860.txt",
+    "title_guess": "[TRW LOGO] 2001-2002 STRATEGIC INCENTIVE PROGRAM GRANT Terms and Conditions --------------",
+    "orig_words": 1429,
+    "final_words": 1429,
+    "truncated": false
+  },
+  {
+    "doc_id": "contract_015",
+    "source_row": "row_1920.txt",
+    "title_guess": "THIRD AMENDMENT TO AMENDED AND RESTATED LOAN AGREEMENT THIS THIRD AMENDMENT TO AMENDED AND",
+    "orig_words": 1763,
+    "final_words": 1763,
+    "truncated": false
+  },
+  {
+    "doc_id": "contract_016",
+    "source_row": "row_1980.txt",
+    "title_guess": "-31 NEW YORK STATE ELECTRIC & GAS CORPORATION SUPPLEMENTAL EXECUTIVE RETIREMENT PLAN Amend",
+    "orig_words": 2740,
+    "final_words": 2740,
+    "truncated": false
+  },
+  {
+    "doc_id": "contract_017",
+    "source_row": "row_240.txt",
+    "title_guess": "REDACTED VERSION CLINICAL MANUFACTURE AND SUPPLY AGREEMENT THIS AGREEMENT (the \"Agreement\"",
+    "orig_words": 2315,
+    "final_words": 2315,
+    "truncated": false
+  },
+  {
+    "doc_id": "contract_018",
+    "source_row": "row_300.txt",
+    "title_guess": "-------------------------------------------------------------------------------- [ TABLE O",
+    "orig_words": 31105,
+    "final_words": 4405,
+    "truncated": true
+  },
+  {
+    "doc_id": "contract_019",
+    "source_row": "row_360.txt",
+    "title_guess": "PERSONAL SERVICES AGREEMENT THIS PERSONAL SERVICES AGREEMENT (\"Agreement\"), made as of thi",
+    "orig_words": 7788,
+    "final_words": 4405,
+    "truncated": true
+  },
+  {
+    "doc_id": "contract_020",
+    "source_row": "row_420.txt",
+    "title_guess": "* Material deleted pursuant to Application for Confidential Investment Exhibit 10.6 ASSIGN",
+    "orig_words": 1303,
+    "final_words": 1303,
+    "truncated": false
+  },
+  {
+    "doc_id": "contract_021",
+    "source_row": "row_480.txt",
+    "title_guess": "EXCHANGE AGREEMENT This Exchange Agreement (\"Agreement\") made and entered into as of this ",
+    "orig_words": 3855,
+    "final_words": 3855,
+    "truncated": false
+  },
+  {
+    "doc_id": "contract_022",
+    "source_row": "row_540.txt",
+    "title_guess": "[***] CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED SEPARATELY WITH THE C",
+    "orig_words": 6277,
+    "final_words": 4405,
+    "truncated": true
+  },
+  {
+    "doc_id": "contract_023",
+    "source_row": "row_60.txt",
+    "title_guess": "AMENDMENT TO THE TELLABS, INC. 1987 STOCK OPTION PLAN FOR NON-EMPLOYEE CORPORATE DIRECTORS",
+    "orig_words": 1379,
+    "final_words": 1379,
+    "truncated": false
+  },
+  {
+    "doc_id": "contract_024",
+    "source_row": "row_600.txt",
+    "title_guess": "CONTROL AGREEMENT WITH A SECURITIES INTERMEDIARY To: Wells Fargo Brokerage Services, LLC. ",
+    "orig_words": 1281,
+    "final_words": 1281,
+    "truncated": false
+  },
+  {
+    "doc_id": "contract_025",
+    "source_row": "row_660.txt",
+    "title_guess": "GARDENBURGER, INC FY 2002 EXECUTIVE INCENTIVE PROGRAM The purpose of this program is to re",
+    "orig_words": 408,
+    "final_words": 408,
+    "truncated": false
+  },
+  {
+    "doc_id": "contract_026",
+    "source_row": "row_720.txt",
+    "title_guess": "LOGO [g612030.jpg] INDEPENDENT CONTRACTOR AGREEMENT This Agreement (the \"Agreement\") is ma",
+    "orig_words": 4544,
+    "final_words": 4405,
+    "truncated": true
+  },
+  {
+    "doc_id": "contract_027",
+    "source_row": "row_780.txt",
+    "title_guess": "AMENDMENT NO. 1 TO CREDIT AND GUARANTY AGREEMENT AMENDMENT NO. 1, dated as of September 11",
+    "orig_words": 7952,
+    "final_words": 4405,
+    "truncated": true
+  },
+  {
+    "doc_id": "contract_028",
+    "source_row": "row_840.txt",
+    "title_guess": "REDACTED [**] CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED SEPARATELY WI",
+    "orig_words": 13403,
+    "final_words": 4405,
+    "truncated": true
+  },
+  {
+    "doc_id": "contract_029",
+    "source_row": "row_900.txt",
+    "title_guess": "HAZARDOUS SUBSTANCES CERTIFICATE AND INDEMNITY AGREEMENT THIS HAZARDOUS SUBSTANCES CERTIFI",
+    "orig_words": 3052,
+    "final_words": 3052,
+    "truncated": false
+  },
+  {
+    "doc_id": "contract_030",
+    "source_row": "row_960.txt",
+    "title_guess": "CONSULTING SERVICES AGREEMENT THIS CONSULTING SERVICES AGREEMENT is entered into effective",
+    "orig_words": 1308,
+    "final_words": 1308,
+    "truncated": false
+  }
+]

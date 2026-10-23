@@ -1,0 +1,196 @@
+AMENDMENT TO THE TELLABS, INC.
+
+1987 STOCK OPTION PLAN FOR
+
+NON-EMPLOYEE CORPORATE DIRECTORS
+
+(As Amended and Restated Effective June 26, 1992)
+
+ 
+
+WHEREAS, Tellabs, Inc. (the "Corporation") has heretofore established the
+Tellabs, Inc. 1987 Stock Option Plan for Non-Employee Corporate Directors (the
+"Plan") for the benefit of non-employee corporate directors of the Corporation;
+
+WHEREAS, the Corporation deems it desirable to make certain amendments to the
+Plan relating to the vesting of options and/or the post-directorship exercise
+period in the event of the death, disability, or retirement of an option holder,
+or a change in control of the Corporation; and
+
+WHEREAS, the Board of Directors of the Corporation has considered the
+recommendations and has approved this Amendment to the Plan.
+
+NOW, THEREFORE, BE IT RESOLVED, that the Plan is hereby amended, effective
+June 30, 2000, as follows :
+
+ I.   Under Article 2 of the Plan, the following definition of "Change in
+      Control" shall be added:
+      
+      
+      
+      
+
+      (o) "Change in Control" means the first to occur of:
+      
+      (i) Any "person" (as defined in Section 13(d) and 14(d) of the Securities
+      Exchange Act of 1934, as amended (the "Exchange Act")), excluding for this
+      purpose, the Corporation or any subsidiary of the Corporation, or any
+      employee benefit plan of the Corporation or any subsidiary of the
+      Corporation, or any person or entity organized, appointed or established
+      by the Corporation for or pursuant to the terms of any such plan which
+      acquires beneficial ownership of voting securities of the Corporation, is
+      or becomes the "beneficial owner" (as defined in Rule 13d-3 under the
+      Exchange Act), directly or indirectly, of securities of the Corporation
+      representing 20% or more of the combined voting power of the Corporation's
+      then outstanding securities; provided, however, that no Change in Control
+      will be deemed to have occurred as a result of a change in ownership
+      percentage resulting solely from an acquisition of securities by the
+      Corporation; and provided further that no Change in Control will be deemed
+      to have occurred if a person inadvertently acquires an ownership interest
+      of 20% or more but then promptly reduces that ownership interest below
+      20%;
+
+      (ii) During any two consecutive years (not including any period beginning
+      prior to June 30, 2000), individuals who at the beginning of such two-year
+      period constitute the Board of Directors of the Corporation and any new
+      director (except for a director designated by a person who has entered
+      into an agreement with the Corporation to effect a transaction described
+      elsewhere in this definition of Change in Control) whose election by the
+      Board or nomination for election by the Corporation's stockholders was
+      approved by a vote of at least two-thirds of the directors then still in
+      office who either were directors at the beginning of the period or whose
+      election or nomination for election was previously so approved (such
+      individuals and any such new director, the "Incumbent Board") cease for
+      any reason to constitute at least a majority of the Board;
+      
+      (iii) Consummation of a reorganization, merger or consolidation or sale or
+      other disposition of all or substantially all of the assets of the
+      Corporation (a "Business Combination"), in each case, unless, following
+      such Business Combination, (A) all or substantially all of the individuals
+      and entities who were the beneficial owners of outstanding voting
+      securities of the Corporation immediately prior to such Business
+      Combination beneficially own, directly or indirectly, more than 50% of the
+      combined voting power of the then outstanding voting securities entitled
+      to vote generally in the election of directors, as the case may be, of the
+      corporation resulting from such Business Combination (including, without
+      limitation, a corporation which as a result of such transaction owns the
+      Corporation or all or substantially all of the Corporation's assets either
+      directly or through one or more subsidiaries) in substantially the same
+      proportions as their ownership, immediately prior to such Business
+      Combination of the outstanding voting securities of the Corporation; (B)
+      no person (excluding any corporation resulting from such Business
+      Combination or any employee benefit plan (or related trust) of the
+      Corporation or such corporation resulting from such Business Combination)
+      beneficially owns, directly or indirectly, 20% or more of, respectively,
+      the then combined voting power of the then outstanding voting securities
+      of such corporation except to the extent that such ownership existed prior
+      to the Business Combination; and (C) at least a majority of the members of
+      the board of directors of the corporation resulting from such Business
+      Combination were members of the Incumbent Board at the time of the
+      execution of the initial agreement, or of the action of the Board,
+      providing for such Business Combination; or
+      
+      (iv) Approval by the stockholders of the Corporation of a complete
+      liquidation or dissolution of the Corporation.
+
+      
+      
+ II.  Under Article 2 of the Plan, the following definition of "Disability"
+      shall be added:
+      
+      
+      
+      
+
+      (r) "Disability" shall have the meaning ascribed to such term in
+      Section 22(e)(3) of the Code.
+
+      
+      
+ III. Article 11 shall be amended in its entirety to read as follows:
+      
+      
+      
+      
+
+      11. Termination of Directorship.
+      
+      Except as set forth in Article 11A with respect to the effect of a Change
+      in Control or except as the Board may otherwise expressly provide in the
+      Option Agreement, the following rules shall apply upon termination of the
+      Grantee's directorship with the Corporation:
+      
+      (a) Except as set forth in subsections (b), (c) and (d) below, in the
+      event a Grantee ceases to be a director of the Corporation for any reason,
+      any Option or unexercised portion thereof granted under this Plan may be
+      exercised, to the extent such Option would have been exercisable by the
+      Grantee hereunder on the date on which the Grantee ceased to be a
+      director, within three months of such date (seven months in the event such
+      termination occurs after the occurrence of a Change in Control), but in no
+      event later than the date of expiration of the term of the Option.
+      
+      (b) In the event of termination of directorship due to the death the
+      Grantee, each Option held by the Grantee shall become exercisable in full
+      and may be exercised at any time prior to the expiration date of the
+      Option or within one year after the date of the Grantee's death, whichever
+      period is shorter.
+      
+      (c) In the event of termination of directorship due to the Disability of
+      the Grantee, each Option held by the Grantee may, to the extent
+      exercisable at the time of termination of directorship, be exercised at
+      any time prior to the expiration date of the Option or within three years
+      after the date of the Grantee's termination of directorship, whichever
+      period is shorter.
+
+      (d) In the event of the Grantee's death or Disability during the first
+      three months of the period described in subsection (a) above, then each
+      unexercised Option held by the Grantee may, to the extent exercisable at
+      the time of Grantee's death or Disability, be exercised at any time prior
+      to the expiration date of the Option or within one year of the date the
+      Grantee ceased to be a director, whichever period is shorter.
+
+      
+      
+ IV.  The Plan shall hereby be amended by adding a new Article 11A to read:
+      
+      
+      
+      
+
+      11A. Change in Control.
+      
+      Upon the occurrence of a Change in Control, all Options granted hereunder
+      shall become immediately exercisable and remain exercisable until such
+      Options expire or terminate under the provisions of this Plan.
+
+      
+      
+ V.   Article 12 of the Plan shall be amended in its entirety to read as
+      follows:
+
+12. Effect of Change in Stock Subject to Plan.
+
+Except as provided below, the Board shall make equitable adjustments in the
+number and class of shares of stock subject to the Plan, and to the Option
+rights granted hereunder and the exercise prices of such Option rights, in the
+event of a stock dividend, stock split, reverse stock split, recapitalization,
+reorganization, merger, consolidation, acquisition, separation or other change
+in the capital structure of the Corporation.
+
+IN WITNESS WHEREOF, the foregoing amendments to the Tellabs, Inc. 1987 Stock
+Option Plan for Non-Employee Corporate Directors are hereby adopted as of the
+30th day of June, 2000, by the undersigned officer duly authorized by
+resolutions adopted by the written consent of the Board of Directors dated
+June 30, 2000.
+
+ 
+
+TELLABS, INC.
+
+ 
+
+By: /s Michael J. Birck
+
+Name: Michael J. Birck
+
+Its: President and Chief Executive Officer

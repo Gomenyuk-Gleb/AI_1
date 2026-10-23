@@ -1,0 +1,27 @@
+# Secrets — never commit these (CLOUD_MODEL=... with real API keys lives in .env)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*credentials*.json
+*secrets*
+.netrc
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.uv/
+*.egg-info/
+.pytest_cache/
+
+# Caches
+.litellm_cache/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

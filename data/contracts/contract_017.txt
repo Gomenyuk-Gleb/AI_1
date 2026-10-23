@@ -1,0 +1,409 @@
+QuickLinks -- Click here to rapidly navigate through this document
+
+
+
+
+REDACTED VERSION
+
+
+CLINICAL MANUFACTURE AND SUPPLY AGREEMENT
+
+    THIS AGREEMENT (the "Agreement") is entered into on September 1, 2000 by and
+between ABC Laboratories, Inc., of Columbia, Missouri ("ABC") and NeoRx
+Corporation, of Seattle, Washington ("NeoRx").
+
+WITNESSETH
+
+    WHEREAS, ABC desires to manufacture 166Ho-DOTMP at the radiopharmaceutical
+manufacturing facility located in Columbia, Missouri (the "Facility"); and
+
+    WHEREAS, NeoRx desires that ABC manufacture and supply to and on behalf of
+NeoRx, and ABC is willing to manufacture and supply, certain quantities of
+holmium-166 1,4,7,10-tetraazacyclododecane-1,4,7,10-tetra-methylenephosphonic
+acid (166Ho-DOTMP) (the "Product") for NeoRx's use in clinical trials, all in
+accordance with the terms and conditions set forth in this Agreement;
+
+    NOW THEREFORE, in consideration of the foregoing promises and agreements set
+forth herein, the parties agree as follows:
+
+AGREEMENT
+
+I.  Scope of Work
+
+    (A)  Processing Responsibilities.  ABC will (1) manufacture, analyze,
+package in dosage form, and inspect and label (collectively "Process") Product
+at the Facility in accordance with cGMP and the Product specifications set forth
+on Exhibit A (which is incorporated herein by reference, unless NeoRx Quality
+Assurance approves (on a per batch basis) any deviation in batch test result(s)
+from Product specifications and releases the Product batch for administration to
+a patient. In order to meet this responsibility ABC must [*]. (2) maintain
+records regarding the Product in conformity with cGMP, and (3) supply the
+Product to NeoRx in such doses as NeoRx may order from ABC in accordance with
+this Agreement as allowable by MURR HP.
+
+    (B)  Additional Responsibilities.  In addition to the responsibilities
+stated in clause (A) above, ABC agrees that it will have the responsibilities
+listed on Exhibit B (which is incorporated herein by this reference) with
+respect to Processing the Product.
+
+[*] designates portions of this document that have been omitted pursuant to a
+request for confidential treatment filed separately with the Commission.
+
+II.  Purchase Orders
+
+    (A)  Purchase Orders.  NeoRx will deliver to ABC by the close of business on
+Monday of each week during the term of this Agreement, a written or electronic
+purchase order for the number of full or partial batches, and whether each batch
+is a [*], that NeoRx desires to purchase for delivery during the following
+calendar week. Each purchase order will also specify the delivery dates and the
+number doses of Product that are to be shipped to each location. Each dose shall
+be shipped in such manner, and to such location, as directed by NeoRx and
+permitted by MURR HP.
+
+    (B)  Contradictory Provisions.  To the extent any purchase order, or related
+invoice, contains any provisions contrary to the terms of this Agreement, such
+contrary provisions shall have no force or effect and the terms of this
+Agreement shall control.
+
+21
+
+--------------------------------------------------------------------------------
+
+III.  Fees
+
+    (A)  Milestone Payments.  NeoRx agrees that it will pay to ABC the milestone
+payment as described in Exhibit C (which is incorporated herein by this
+reference).
+
+    (B)  Reimbursable Expenses.  NeoRx shall reimburse ABC for the expenses
+listed on Exhibit D. The parties acknowledge that NeoRx may request an increase
+to its production capacity at the Facility in order to timely Process the amount
+of Product contemplated by the Parties in this Agreement. To facilitate the
+timely scaling of ABC's production capacity, NeoRx agrees that it will reimburse
+ABC for labor expenses at a rate of [*] and [*] incurred by ABC; provided,
+however, that ABC will pay for changes in cask design and cask construction
+required to scale up the Process with the acknowledgement by both parties that
+ABC will obtain ownership of those specific cask and cask construction
+modifications at the conclusion of this agreement. ABC agrees that it must
+obtain NeoRx's prior written consent prior to incurring any expense not listed
+on Exhibit D for which it intends to seek reimbursement from NeoRx.
+
+    (C)  Batch Fee.  For each batch of Product processed by ABC during the term
+of this Agreement, NeoRx shall pay to ABC a fee of (1) [*], (2) [*], and
+(3) [*]. The price per batch includes the cost of labor, material and overhead
+to manufacture and test the finished vials of Product, but is exclusive of the
+cost of 166 holmium chloride, DOTMP, MURR radiation safety oversight and
+production supervision, and shipping expenses all of which shall be paid by
+NeoRx separately.
+
+    (D)  Minimum Purchases.  During the period from the effective date of this
+agreement until December 22, 2000, NeoRx agrees to purchase a minimum of [*].
+
+    (E)  MURR Radiation Safety Oversight and Production Supervision Fees.  NeoRx
+shall pay to ABC a fee of [*] that ABC manufactures product at NeoRx's request.
+
+    (F)  Facility Lease Fees.  During the term of this contract NeoRx shall pay
+to ABC a fee of [*], [*], and [*] to Process Product.
+
+IV.  Billing And Payment Terms
+
+    ABC shall invoice NeoRx bi-weekly for any Product Processed and supplied to
+or on behalf of NeoRx in response to purchase orders during the two weeks prior
+to the date of each invoice. NeoRx shall pay for such Product within thirty
+(30) days of its receipt of such invoice. All invoices that remain unpaid after
+sixty (60) days of NeoRx's receipt thereof shall accrue interest at the rate of
+1.5% per month. ABC shall reference the applicable purchase orders on all
+invoices. If NeoRx disagrees for any reason with an amount of an invoice, NeoRx
+shall notify ABC in writing of such a disagreement within ten (10) business days
+of receipt of such invoice, and the parties shall promptly endeavor to resolve
+the dispute in good faith.
+
+V.  Shipping Terms
+
+    NeoRx will be responsible for the shipment of the Product. NeoRx, in
+consultation with ABC, shall arrange for the shipment of the Product from the
+Facility to NeoRx, or such other location as determined by NeoRx. NeoRx shall be
+responsible for the payment of all shipping charges (including, without
+limitation, freight, handling, insurance and all other transportation-related
+items associated with such shipments). NeoRx shall make all payments directly.
+
+VI.  Term And Termination
+
+    This Agreement will continue through December 31, 2002; provided, however,
+that either party may terminate this agreement after December 22, 2000 upon
+30 days prior written notice; and provided, however, that either party may
+terminate this Agreement if the other party breaches any of
+
+22
+
+--------------------------------------------------------------------------------
+
+its obligations hereunder and does not cure such breach within ten (10) days of
+written notice. Upon termination or expiration of this agreement or should
+NeoRx's cumulative batch fees (net of MURR charges) to ABC fall below [*] will
+be transferred from NeoRx to ABC; provided, however, that ABC will keep the
+Facility intact and permit NeoRx and FDA inspectors to access and inspect the
+Facility and Process to ensure that the Product is manufactured and released in
+accordance with cGMP and the Product specifications as set forth on Exhibit A
+through the year 2002.
+
+VII.  Miscellaneous
+
+    (A) Each party may receive information from the other party that the
+receiving party should reasonably believe is confidential. Each party will hold
+the other party's confidential information in confidence, including the terms of
+this Agreement, and will disclose such information to persons on a need to know
+basis only.
+
+    (B) This Agreement contains the entire understanding of the parties and
+supersedes all prior agreements and understandings, and may not be modified, nor
+any term waived, except by the unanimous written consent of the parties.
+
+    (C) The parties are acting as independent contractors and independent
+employers. Nothing herein shall be construed as creating a partnership, joint
+employer or agency relationship between the parties and no party shall have
+authority to bind the other in any respect.
+
+    (D) In the event any provision of this Agreement is held unenforceable under
+applicable law, the remainder of the Agreement shall remain valid.
+
+    (E) No patent, trademark, logo, copyright or other intellectual property
+rights are conveyed by this Agreement, and neither party shall have the right to
+use the other parties intellectual property for any purpose whatsoever without
+prior written consent.
+
+    (F) The parties acknowledge that the execution of this agreement relieves
+any perceived outstanding obligations associated with ABC quote #Jparkins.4E,
+"Design, Construction, and Validation of Processing Box for Phase III Clinical
+Manufacture of 166HoDOTMP".
+
+    (G) NeoRx agrees to take responsibility for payment of completion, shipping,
+and installation charges [*]. ABC will be held harmless for these payments.
+
+    (H) During the Term of this Agreement, neither Party shall make any press
+release or other disclosure of the terms of this Agreement without the prior
+written consent of the other Party.
+
+    (I) Each Party shall defend, indemnify, and hold harmless the other Party,
+its officers, agents, employees and Affiliates (collectively, the "Indemnified
+Party") from any third party loss, claim, action, damage, expense or liability
+(including defense costs and reasonable attorneys' fees) arising out of the
+Indemnifying Party's (a) breach, violation or non fulfillment of any of its
+covenant, agreements, representations or warranties under this Agreement,
+(b) handling, possession, or use of the Product, (c) negligence or willful
+misconduct, or (d) breach of any third party's trade secret right, except to the
+extent that such loss, claim, action, damage, expense or liability is based on,
+arises out of, or is due to the negligence or willful misconduct of, or breach
+of this Agreement by the Indemnified Party.
+
+23
+
+--------------------------------------------------------------------------------
+
+    IN WITNESS WHEREOF, each party has caused this Agreement to be executed by a
+duly authorized representative, effective on this date first set forth above.
+
+ 
+   
+   
+   
+NEORX CORPORATION   ABC LABORATORIES, INC.  
+By:  
+   
+
+
+--------------------------------------------------------------------------------
+
+ 
+   
+By:  
+   
+
+
+--------------------------------------------------------------------------------
+
+ 
+Name:  
+   
+
+
+--------------------------------------------------------------------------------
+
+ 
+   
+Name:  
+   
+
+
+--------------------------------------------------------------------------------
+
+ 
+Title:  
+   
+
+
+--------------------------------------------------------------------------------
+
+ 
+   
+Title:  
+   
+
+
+--------------------------------------------------------------------------------
+
+ 
+   
+   
+   
+   
+   
+   
+ 
+
+24
+
+--------------------------------------------------------------------------------
+
+EXHIBIT A
+Item Specifications
+
+    [*]
+
+25
+
+--------------------------------------------------------------------------------
+
+EXHIBIT A (continued)
+
+    [*]
+
+26
+
+--------------------------------------------------------------------------------
+
+EXHIBIT B
+ABC's ADDITIONAL RESPONSIBILITIES
+
+    (1) Be capable of Processing up to [*] of Product per week for delivery on
+Tuesday through Thursday of each such week as permitted by MURR HP
+
+    (2) Perform scale up of Process from [*] and be capable of Processing up to
+[*] Product per week for delivery on Tuesday through Thursday of each such week
+at NeoRx's request; provided, however, NeoRx provides a reasonable amount of
+time for ABC to complete the Process scale up as permitted by MURR HP.
+
+    (3) Perform all QA/QC release testing on each batch of Product as required
+pursuant to cGMP and the Product specifications set forth on Exhibit A.
+
+    (4) Maintain the manufacturing process and Facility in accordance with cGMP.
+ABC agrees that to evidence its compliance with this responsibility, ABC will
+conduct all of the following by September 4, 2000:
+
+    (a) Completion of technology transfer tasks as defined in protocol to be
+provided to ABC by NeoRx;
+
+    (b) IQ/OQ/PQ of all Process and analytical equipment and instrumentation
+except for [*] which will be completed as soon as reasonably possible;
+
+    (c) Process [*] that meets cGMP and all Product specifications set forth on
+Exhibit A. This responsibility can also be met if NeoRx Quality Assurance
+approves any deviation in batch test result(s) from Product specifications and
+releases the Product batch for administration to a patient.
+
+    (5) Procure, test, release, and maintain sufficient inventory of raw
+materials, manufacturing and QC components and reagents necessary to Process the
+Product in accordance with this Agreement, other than DOTMP and 166HoC13 which
+will be supplied by NeoRx and MURR, respectively.
+
+    (6) Make available to NeoRx and any applicable governmental agency all
+records relating to the manufacturing process and Facility as they relate to the
+Product.
+
+    (7) Permit NeoRx and FDA inspectors to access and inspect the Facility to
+ensure that the Product is being Processing in accordance with cGMP and the
+Product specifications as set forth on Exhibit A as permitted by MURR HP.
+
+    (8) Provide to NeoRx a certificate of analysis in the form as agreed to by
+the parties and in compliance with all laws, for each batch of Product, provided
+a certificate of analysis is proved to ABC Labs by MURR before production is
+complete.
+
+    (9) Dispose of all waste resulting from the manufacture of the Product.
+
+27
+
+--------------------------------------------------------------------------------
+
+EXHIBIT C
+MILESTONE PAYMENTS
+
+    NeoRx will pay to ABC each of the following milestone payments upon ABC
+successfully completing (to NeoRx's reasonable satisfaction) the application
+milestone:
+
+    Payment:  [*]. Milestone: Validation, qualification, and technology transfer
+services upon demonstration of a [*] qualification batch meeting Product
+specifications set forth on Exhibit A. This responsibility can also be met if
+NeoRx Quality Assurance approves any deviation in batch test results(s) from
+Product specifications and releases the Product batch for administration to a
+patient.
+
+    Payment  [*] Milestone: Payment for HPLC software upon receipt of
+manufacturers invoice.
+
+    Payment  [*] Milestone: Payment for MURR HP upon execution of this
+agreement.
+
+    Payment:  [*]. Milestone: Execution of this agreement.
+
+    Payment:  [*]. Milestone: Complete resolution of any cGMP compliance
+deficiencies noted during the 8/22/00 NeoRx quality audit of ABC, and upon
+demonstration of 12 weeks of batch production suitable for patient dosing.
+
+28
+
+--------------------------------------------------------------------------------
+
+EXHIBIT D
+REIMBURSABLE EXPENSES
+
+    (A) Packaging and Handling Fees. NeoRx shall reimburse ABC at a rate of [*]
+of Product. ABC shall provide a monthly invoice to NeoRx of these fees.
+
+    (B) Radiation Waste (Low Specific Activity) Fees. NeoRx shall reimburse ABC
+at a rate of [*] of low specific activity (Ho-166m) waste. ABC shall notify
+NeoRx in writing when each barrel is due for disposal.
+
+    (C) HPGe Detector Technical Support Fees. NeoRx shall reimburse ABC at a
+rate of [*] of MURR technical support required to service the HPGe Detector. ABC
+shall notify NeoRx in writing when MURR service is required.
+
+    (D) Maintenance and Repair of Equipment and Instrumentation. NeoRx shall
+reimburse ABC for maintenance and repair of the equipment and instrumentation
+listed on Exhibit E for the period that NeoRx maintains ownership of the listed
+equipment and instrumentation.
+
+29
+
+--------------------------------------------------------------------------------
+
+EXHIBIT E
+EQUIPMENT AND INSTRUMENTATION
+
+[*]
+
+30
+
+--------------------------------------------------------------------------------
+
+
+
+QUICKLINKS
+
+CLINICAL MANUFACTURE AND SUPPLY AGREEMENT
+EXHIBIT A Item Specifications
+EXHIBIT B ABC's ADDITIONAL RESPONSIBILITIES
+EXHIBIT C MILESTONE PAYMENTS
+EXHIBIT D REIMBURSABLE EXPENSES
+EXHIBIT E EQUIPMENT AND INSTRUMENTATION

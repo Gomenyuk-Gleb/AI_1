@@ -1,0 +1,191 @@
+EXHIBIT 10.126
+
+ 
+
+CONSULTING SERVICES AGREEMENT
+
+THIS CONSULTING SERVICES AGREEMENT
+
+is entered into effective as of the 1st day of October, 2001 (the "Effective
+Date"), by and between Vision Twenty-One, Inc. (the "Company") and Ellen Gordon
+(the "Consultant").
+
+
+
+The Company and the Consultant agree to the following: 
+
+Retention as Consultant.
+The Company hereby retains Consultant, and the Consultant hereby agrees to
+render consulting services to the Company, upon the terms and conditions set
+forth herein.
+Duties.
+The Consultant agrees that she will, as an independent contractor, provide such
+services to the Company with respect to the information systems and related
+activities of the Company and its subsidiaries as are assigned to her by the
+Chief Executive Officer of the Company from time to time (collectively, the "
+Projects
+"). The Consultant shall be provided with written notice of each Project,
+including the nature and scope of the Project, within a reasonable period of
+time prior to the requested performance of each Project. Prior to commencement
+of a specific Project, the Consultant shall provide the Company with an estimate
+of the number of hours anticipated to complete such Project (the "
+Individual Project Time Estimate
+"). If, during the pendency of a particular Project, the Consultant determines
+that the actual number of hours needed to complete such Project are expected to
+exceed the Individual Project Time Estimate, the Consultant shall notify the
+Company of the anticipated increase in the Individual Project Time Estimate and
+obtain the Company's approval to provide services in excess of the Individual
+Project Time Estimate.
+Independent Contractor Status.
+The parties recognize that Consultant is an independent contractor and not an
+employee, agent or representative of the Company or its subsidiaries, and that
+the Company will not incur any liability as a result of the Consultant's
+actions. Consultant shall at all times disclose that she is an independent
+contractor of the Company and she shall not represent to any third party that
+she is an employee, agent or representative of the Company other than as
+expressly stated herein. The Company shall not withhold any funds from the
+Consultant for tax or other governmental purposes, and the Consultant shall be
+responsible for the payment of same. Consultant shall not be entitled to receive
+any employment benefits offered to employees of the Company, including workers'
+compensation coverage. The Company shall not exercise control over the
+Consultant.
+Compensation.
+In consideration for the services rendered by Consultant pursuant to paragraph 2
+hereof, the Company hereby agrees to: (i) pay the Consultant the amount of
+$140.00 per hour; and (ii) waive the mitigation provision set forth in the last
+sentence of Section 5 (a)(1) of the Amended And Restated Employment Agreement
+dated May 30, 2001 among the Company, Consultant, MEC Health Care, Inc. and
+Block Vision, Inc. (the "
+Prior Employment Agreement
+") with respect to any compensation paid to Consultant by the Company pursuant
+to this paragraph 4. Consultant will invoice the Company periodically, at
+Consultant's convenience. All invoices shall be subject to review and approval
+by the Company's Chief Financial Officer prior to payment, taking into account
+all applicable Individual Project Time Estimates. All approved invoices shall be
+paid within fifteen (15) days of the Company's receipt of same. If all or any
+part of an invoice is not approved by the Chief Financial Officer, the Chief
+Financial Officer shall notify Consultant within fifteen (15) days of the
+Company's receipt of such invoice and the parties shall use their best efforts
+to resolve the dispute.
+Term.
+The term of this Agreement shall commence on the Effective Date and shall
+continue until June 30, 2002, unless sooner terminated by either party pursuant
+to paragraph 6 hereof.
+Termination.
+
+(a) Either party shall have the right to terminate this Agreement upon at least
+thirty (30) days prior written notice to the other party, and such termination
+shall be effective as of the date set forth in such notice, or such other date
+as is mutually agreed to by the parties.
+
+(b) In the event of a material breach, the non-breaching party may terminate
+this Agreement upon ten (10) days prior written notice (the "Notice Period") to
+the breaching party. The party claiming the right to terminate thereunder shall
+set forth in the notice the facts underlying the claim that the other party is
+in breach of this Agreement. If the breach is remedied prior to the expiration
+of the Notice Period, the Agreement shall continue in effect until otherwise
+terminated pursuant to this paragraph 6. Material breach includes, but is not
+limited to, a failure by either party to perform, in whole or in part, any
+provision contained in this Agreement.
+
+(c) The Company shall have the right to terminate this Agreement at any time,
+if: (i) Consultant engages in fraudulent conduct which involves the property of
+the Company or its subsidiaries; (ii) Consultant is convicted of, or pleads nolo
+contendere with respect to any criminal offense or any activity involving moral
+turpitude; (iii) Consultant shall have engaged in any activity which would
+disrupt or hinder the Company's business or harm the integrity of the Company or
+its reputation in the industry. Upon termination of this Agreement pursuant to
+this paragraph 6 (c), the Company shall have no obligation to make any further
+payments to Consultant under paragraph 4.
+
+(d) This Agreement may be terminated at any time upon the mutual consent of the
+Company and Consultant.
+
+Company Property.
+
+Any document or other material prepared by the Consultant, alone or with others
+in the course of providing services hereunder specific to the Company or its
+affiliates, including, with out limitation, any source codes for the Projects,
+shall be the property of the Company. Upon the termination or expiration of this
+Agreement, Consultant shall promptly return to the Company all files, reports,
+documents or other records or materials of any kind pertaining to the Company or
+any of its affiliates.
+
+
+
+Confidentiality.
+
+The Consultant agrees that she shall keep all confidential and proprietary
+information of the Company or relating to the businesses of the Company and its
+subsidiaries (including, but not limited to, information regarding the Company's
+affiliates, clients, pricing policies, methods of operation, proprietary
+computer programs and trade secrets) confidential, and that she will not (except
+with the Company's prior written consent), during the term of this Agreement or
+thereafter, disclose such confidential information to any person, firm,
+corporation, association or other entity (except the Company) under any
+circumstances during or after the term of this Agreement. The foregoing shall
+not apply to any information which is already in the public domain, or is
+generally disclosed by the Company or is otherwise in the public domain at the
+time of disclosure. The provisions of this paragraph 8 are cumulative of and are
+not intended to replace or supersede the provisions regarding the protection of
+confidential information set forth in Section 9 of the Prior Employment
+Agreement.
+
+
+
+Adherence to Laws.
+
+Consultant agrees to comply with all federal, state and local laws and
+regulations applicable to any activities carried out while providing consulting
+services to the Company under the provisions of this Agreement.
+
+
+
+Conflict of Interest.
+
+Consultant shall exercise reasonable care and diligence to prevent any actions
+or conditions which could result in a conflict with the best interests of the
+Company.
+
+
+
+Entire Agreement.
+
+This Agreement contains all of the terms and conditions agreed upon by the
+parties and supersedes all other agreements, expressed or implied, regarding the
+subject matter hereof and supersedes any prior oral understandings of the
+parties. Any amendments to this Agreement must be in writing and executed by
+both parties to this Agreement.
+
+
+
+IN WITNESS WHEREOF,
+
+this Agreement has been duly executed effective as of the day and year indicated
+above.
+
+
+
+
+
+VISION TWENTY-ONE, INC.
+
+CONSULTANT
+
+ 
+
+ 
+
+/s/ Mark Gordon
+By:____________________________
+
+Name: Mark Gordon
+Title: Chief Executive Officer
+
+/s/ Ellen Gordon
+___________________________
+
+Ellen Gordon
+
+
+
